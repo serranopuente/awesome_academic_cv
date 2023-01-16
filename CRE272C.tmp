@@ -1,0 +1,56 @@
+% !TEX TS-program = luatex
+% Awesome CV LaTeX Template
+%
+% This template has been created over:
+% https://github.com/huajh/huajh-awesome-latex-cv
+%
+% Author:
+% Darío Serrano Puente
+
+\usepackage{multirow}
+
+\documentclass[localFont]{awesome-source-cv} %alternative
+
+\name{Darío}{Serrano-Puente}
+
+\tagline{PhD (Candidate) in Economics @ \link{https://www.ub.edu/school-economics/}{UB School of Economics} \\ PhD Researcher (Trainee) @ \link{https://www.airef.es/en/}{AIReF}}
+
+\photo{3cm}{avatar}
+\socialinfo{
+	\homepage{sites.google.com/view/darioserranopuente}
+	\twitter{darioserranopue}
+	\linkedin{serranopuente} \\
+	\link{https://scholar.google.es/citations?user=dKncLyQAAAAJ&hl=es}{\includegraphics[width=0.10in,height=0.10in]{icon/scholar.jpg}}\hspace{1 mm} \link{https://scholar.google.es/citations?user=dKncLyQAAAAJ&hl=es}{Google Scholar}\hspace{2 mm} 
+	\link{https://orcid.org/0000-0002-5943-3332}{\includegraphics[width=0.10in,height=0.10in]{icon/orcid.jpg}}\hspace{1 mm} \link{https://orcid.org/0000-0002-5943-3332}{ORCiD}\hspace{2 mm} 
+	\link{https://ideas.repec.org/f/pse707.html}{\includegraphics[width=0.10in,height=0.10in]{icon/ideas.jpg}}\hspace{1 mm} \link{https://ideas.repec.org/f/pse707.html}{IDEAS/RePEc}\hspace{2 mm}
+	\link{https://publons.com/researcher/4486145/dario-serrano-puente/}{\includegraphics[width=0.10in,height=0.10in]{icon/publons.jpg}}\hspace{1 mm} \link{https://publons.com/researcher/4486145/dario-serrano-puente/}{Publons}\hspace{2 mm}
+	\link{https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4360579}{\includegraphics[width=0.10in,height=0.10in]{icon/ssrn.jpg}}\hspace{1 mm} \link{https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4360579}{SSRN}\hspace{2 mm}
+		\link{https://repositorio.bde.es/browse?type=author&value=Serrano+Puente\%2C+Dar\%C3\%ADo}{\includegraphics[width=0.10in,height=0.10in]{icon/bde.jpg}}\hspace{1 mm} \link{https://repositorio.bde.es/browse?type=author&value=Serrano+Puente\%2C+Dar\%C3\%ADo}{Banco de España Author's Repo}\hspace{2 mm} \\
+	\smartphone{(+34) 626 91 22 97}
+	\email{darioserrapuente@gmail.com} \emailO{dserrano@airef.es}\\
+	\address{José Abascal No. 2, 2ª planta, 28003 Madrid, Spain}\\
+	\infos{Nov 1994, Segovia, Spain}
+}
+
+\begin{document}
+
+	\makecvheader
+
+	% \input{section_headline}
+	\input{section_interests}				% Section Interests
+	\input{section_education}				% Section education	
+	\input{section_publications}			% Section Publications
+	\input{section_academic_employment}				% Section experiences 
+	
+	
+	
+	
+	%\input{section_skills}					% Section Skill
+	%\input{section_experience_projects}		% Section experiences
+	%\input{section_languages}			    % Section languages
+	%\input{section_awards}					% Section Awards
+ 	%\input{section_references} 				% Section References
+
+	\noindent \\		
+	(last update: October 25\textsuperscript{th}, 2021)
+\end{document}

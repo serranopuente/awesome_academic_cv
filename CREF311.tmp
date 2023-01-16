@@ -1,0 +1,47 @@
+% !TEX TS-program = luatex
+% Awesome CV LaTeX Template
+%
+% This template has been downloaded from:
+% https://github.com/huajh/huajh-awesome-latex-cv
+%
+% Author:
+% Junhao Hua
+ 
+
+\documentclass[localFont]{awesome-source-cv} %alternative
+
+\name{Darío}{Serrano-Puente}
+
+\tagline{PhD Candidate in Economics at \link{https://www.ub.edu/school-economics/}{UB School of Economics} | }
+\tagline{}
+
+\photo{2.5cm}{avatar}
+\socialinfo{
+	\homepage{sites.google.com/view/darioserranopuente/}
+	\github{huajh}
+	\weibo{huajh7}
+	\linkedin{serranopuente} \\
+	\smartphone{(+34) 626 91 22 97}
+	\email{darioserrapuente@gmail.com} \emailO{dserrano@airef.es}\\
+	\address{No.38 Zheda Road, Xihu District, Hangzhou, Zhejiang, China}\\
+	\infos{Nov 1994, Segovia, Spain}
+}
+
+\begin{document}
+
+	\makecvheader
+
+	\input{section_headline}
+	\input{section_education}				% Section education	
+	\input{section_publications}			% Section Publications
+	\input{section_skills}					% Section Skill
+	%\input{section_experiences}				% Section experiences 
+	\input{section_experience_short}		% Section experiences
+	\input{section_languages}			    % Section languages
+	\input{section_awards}					% Section Awards
+	\input{section_interests}				% Section Interests
+ 	%\input{section_references} 				% Section References
+
+	\noindent \\		
+	(last update: 13 Apr. 2017)
+\end{document}

@@ -1,0 +1,53 @@
+% Awesome CV LaTeX Template
+%
+% This template has been downloaded from:
+% https://github.com/huajh/huajh-awesome-latex-cv
+%
+% Author:
+% Junhao Hua
+
+
+%Section: Publications
+\sectionTitle{Publications}{\faLeanpub}
+
+\vspace{3 mm}
+
+\textbf{Peer-Refereed Publications}
+
+\begin{itemize}
+	\item “\link{https://doi.org/10.1007/s13209-020-00227-z}{Are We Moving Toward An Energy-Efficient Low-Carbon Economy? An Input-Output LMDI Decomposition of CO2 Emissions for Spain and the EU28}”. 
+	\textit{SERIEs - Jorunal of the Spanish Economic Association}, vol. \link{https://link.springer.com/journal/13209/volumes-and-issues/12-2}{12(2)}, special issue on “\link{https://link.springer.com/article/10.1007/s13209-021-00238-4}{\textit{The Economics of the Energy Transition}}” (2021), \hspace{0.5 mm} \link{https://doi.org/10.1007/s13209-020-00227-z}{\includegraphics[width=0.10in,height=0.10in]{icon/doi.jpg} \hspace{0.5 mm} doi: 10.1007/s13209-020-00227-z}. \\ 
+\indent [\link{https://scholar.google.com/scholar?hl=es&as_sdt=0\%2C5&q=Are+We+Moving+Toward+An+Energy-Efficient+Low-Carbon+Economy\%3F+An+Input-Output+LMDI+Decomposition+of+CO2+Emissions+for+Spain+and+the+EU28&btnG=}{\includegraphics[width=0.10in,height=0.10in]{icon/scholar.jpg} \hspace{0.5 mm} Google Scholar}] [\link{https://repositorio.bde.es/handle/123456789/14611?locale=en}{\includegraphics[width=0.10in,height=0.10in]{icon/wp.jpg} \hspace{0.5 mm} Bank of Spain - Working Paper} \hspace{0.5 mm} n. 2104 (2021)] [\link{https://drive.google.com/file/d/1JTw_KFHCplgyze_Rv0RY94xvQ67LwNYu/view}{\faFilePdfO \hspace{1 mm} Manuscript}] [\link{https://twitter.com/darioserranopue/status/1349449144641925121}{\faTwitter \hspace{1 mm} Summary-Thread}] \\
+\indent [Coverage \footnotesize{\cvtag{\link{https://www.lamoncloa.gob.es/presidente/actividades/Documents/2021/200521-Estrategia_Espana_2050.pdf}{\includegraphics[width=0.07in,height=0.07in]{icon/esp2050.jpg} \hspace{0.5 mm} Informe España 2050}}}]
+\vspace{1 mm}
+	
+	\item “\link{https://doi.org/10.1007/s13209-020-00226-0}{Optimal Progressivity of Personal Income Tax: A General Equilibrium Evaluation for Spain}”. 
+	\textit{SERIEs - Jorunal of the Spanish Economic Association}, vol. \link{https://link.springer.com/journal/13209/volumes-and-issues/11-4}{11(4)} \hspace{0.5 mm} (2020), \hspace{0.5 mm} \link{https://doi.org/10.1007/s13209-020-00226-0}{\includegraphics[width=0.10in,height=0.10in]{icon/doi.jpg} \hspace{0.5 mm} doi: 10.1007/s13209-020-00226-0}. \\ 
+\indent [\link{https://scholar.google.com/scholar?cluster=10542453412805744856&hl=es&as_sdt=0,5}{\includegraphics[width=0.10in,height=0.10in]{icon/scholar.jpg} \hspace{0.5 mm} Google Scholar}] [\link{https://repositorio.bde.es/handle/123456789/14576?locale=en}{\includegraphics[width=0.10in,height=0.10in]{icon/wp.jpg} \hspace{0.5 mm} Bank of Spain - Working Paper} \hspace{0.5 mm} n. 2101 (2021)] [\link{https://drive.google.com/file/d/1pVX4hjkor65-3dunyN_AhR8kyfudbDSP/view}{\faFilePdfO \hspace{1 mm} Manuscript}] [\link{https://twitter.com/darioserranopue/status/1333912851149361152}{\faTwitter \hspace{1 mm} Summary-Thread}] \\
+\indent \faTrophy \emph{ Distinction: } [\link{https://www.bde.es/f/webpi/SES/research/RU_Spring2021_Features_DT2101_1.pdf}{Research Feature Bank of Spain 2021}] \\
+\indent [Coverage ]
+		
+\end{itemize}
+
+\textbf{Policy-Oriented Published Work}
+
+\begin{itemize}
+	\item “\link{https://www.bde.es/f/webbde/SES/Secciones/Publicaciones/InformesBoletinesRevistas/BoletinEconomico/21/T2/Files/be2102e_it_Box6.pdf}{Recent Changes in CO2 Emissions in Spain}” (with \link{https://www.bde.es/investigador/en/menu/people/research_staff_a/Matea_Rosa__Mar_ca18f12a5953b41.html}{Llanos Matea} \hspace{0.5 mm} and \link{https://www.bde.es/investigador/en/menu/people/research_staff_a/Lacuesta_Gabarain__Aitor.html}{Aitor Lacuesta}). \textit{Bank of Spain - Economic Bulletin}, n. 2/2021, Box n. \link{https://www.bde.es/f/webbde/SES/Secciones/Publicaciones/InformesBoletinesRevistas/BoletinEconomico/21/T2/Files/be2102e_it_Box6.pdf}{6} \hspace{0.5 mm} (2021). \\
+	\indent [\link{https://scholar.google.com/scholar?oi=bibs&hl=es&cluster=156688616504851082}{\includegraphics[width=0.10in,height=0.10in]{icon/scholar.jpg} \hspace{0.5 mm} Google Scholar}] [\link{https://www.bde.es/f/webbde/SES/Secciones/Publicaciones/InformesBoletinesRevistas/BoletinEconomico/21/T2/Fich/be2102-it-Rec6.pdf}{\includegraphics[width=0.10in,height=0.10in]{icon/esp.jpg} \hspace{0.5 mm} Spanish version}] [\link{https://twitter.com/darioserranopue/status/1400764076301639688}{\faTwitter \hspace{1 mm} Summary-Thread}]
+\vspace{1 mm}
+	
+	\item “\link{https://repositorio.bde.es/handle/123456789/14121}{Effects of E-Commerce on Prices and Business Competition}” (with \link{https://www.bde.es/investigador/en/menu/people/research_staff_a/Lacuesta_Gabarain__Aitor.html}{Aitor Lacuesta} \hspace{0.5 mm} and \link{https://pauroldan.weebly.com/}{Pau Roldán}). \textit{Bank of Spain - Economic Bulletin}, n. 4/2020, Analytical Article n. \link{https://repositorio.bde.es/handle/123456789/14121}{38} \hspace{0.5 mm} (2020). \\
+	\indent [\link{https://scholar.google.com/scholar?oi=bibs&hl=es&cluster=5755368889540540019}{\includegraphics[width=0.10in,height=0.10in]{icon/scholar.jpg} \hspace{0.5 mm} Google Scholar}] [\link{https://repositorio.bde.es/handle/123456789/14122}{\includegraphics[width=0.10in,height=0.10in]{icon/esp.jpg} \hspace{0.5 mm} Spanish version}] [\link{https://twitter.com/BancoDeEspana/status/1329365415613657088}{\faTwitter \hspace{1 mm} Summary-Thread}]
+			
+\end{itemize}
+
+\clearpage
+
+\textbf{Selected Work in Progress}
+
+\begin{itemize}
+	\item “The Elasticity of Taxable Income and Income-Shifting at The Top: Exploiting Spanish Regional Tax Variations, 1999-2019” (with \link{https://miguelalmunia.eu/}{Miguel Almunia} \hspace{0.5 mm} and \link{https://sites.google.com/site/davidlopezrodriguezphd/home}{David López-Rodríguez}). \textit{CUNEF \& Bank of Spain} (2021).
+			
+\end{itemize}
+
+\vspace{3 mm}

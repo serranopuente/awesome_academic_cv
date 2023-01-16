@@ -8,7 +8,7 @@ Download my fully responsive academic CV template to compile in LuaLaTeX.
 
 ## Prerequisites
 
-Before you begin, ensure you are familiar with LaTeX compiler environments (or at least [Overleaf](https://www.overleaf.com/ "Overleaf"))
+Before you begin, ensure you are familiar with LaTeX compiler environments (at least [Overleaf](https://www.overleaf.com/ "Overleaf"))
 
 ## Contact
 

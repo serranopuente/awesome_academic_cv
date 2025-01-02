@@ -1,72 +1,68 @@
-This is LuaHBTeX, Version 1.14.0 (MiKTeX 22.1) (format=lualatex 2022.2.14)  8 NOV 2023 10:17
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2024.12.27)  27 DEC 2024 19:03
  restricted system commands enabled.
 **awesome-cv.tex
 (./awesome-cv.tex
-LaTeX2e <2021-11-15> patch level 1
-Lua module: luaotfload 2021-05-21 3.18 Lua based OpenType font support
-Lua module: lualibs 2021-05-20 2.74 ConTeXt Lua standard libraries.
-Lua module: lualibs-extended 2021-05-20 2.74 ConTeXt Lua libraries -- extended c
-ollection.
+LaTeX2e <2024-11-01> patch level 1
+L3 programming layer <2024-11-02>
+Lua module: luaotfload 2024-02-14 v3.28 Lua based OpenType font support
+Lua module: lualibs 2023-07-13 v2.76 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2023-07-13 v2.76 ConTeXt Lua libraries -- extended 
+collection.
 luaotfload | conf : Root cache directory is "C:/Users/dario/AppData/Local/MiKTeX
 /luatex-cache/generic/names".
-luaotfload | init : Loading fontloader "fontloader-2021-05-20.lua" from kpse-res
+luaotfload | init : Loading fontloader "fontloader-2023-12-28.lua" from kpse-res
 olved path "C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/f
-ontloader-2021-05-20.lua".
+ontloader-2023-12-28.lua".
 Lua-only attribute luaotfload@noligature = 1
-Lua-only attribute luaotfload@syllabe = 2
-luaotfload | init : Context OpenType loader version 3.116
-Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
-Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
-Inserting `luaotfload.glyph_stream' at position 1 in `glyph_stream_provider'.
-Inserting `luaotfload.define_font' at position 1 in `define_font'.
-Lua-only attribute luaotfload_color_attribute = 3
+luaotfload | init : Context OpenType loader version 3.134
+Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' in `hpack_filter'.
+Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
+Inserting `luaotfload.define_font' in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 2
 luaotfload | conf : Root cache directory is "C:/Users/dario/AppData/Local/MiKTeX
 /luatex-cache/generic/names".
-Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_opentype_file'.
-Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_truetype_file'.
-Inserting `luaotfload.harf.finalize_vlist' at position 1 in `post_linebreak_filt
-er'.
-Inserting `luaotfload.harf.finalize_hlist' at position 2 in `hpack_filter'.
-Inserting `luaotfload.cleanup_files' at position 1 in `wrapup_run'.
-Inserting `luaotfload.harf.finalize_unicode' at position 1 in `finish_pdffile'.
-Inserting `luaotfload.glyphinfo' at position 1 in `glyph_info'.
-Lua-only attribute luaotfload.letterspace_done = 4
-Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
-font'.
-Inserting `luaotfload.aux.set_font_index' at position 2 in `luaotfload.patch_fon
-t'.
-Inserting `luaotfload.aux.patch_cambria_domh' at position 3 in `luaotfload.patch
-_font'.
-Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_fon
-t_unsafe'.
-Inserting `luaotfload.aux.set_capheight' at position 4 in `luaotfload.patch_font
-'.
-Inserting `luaotfload.aux.set_xheight' at position 5 in `luaotfload.patch_font'.
-Inserting `luaotfload.rewrite_fontname' at position 6 in `luaotfload.patch_font'
-. L3 programming layer <2022-02-05>
-Inserting `tracingstacklevels' at position 1 in `input_level_string'. (./awesom
-e-source-cv.cls
+Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
+Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
+Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
+Inserting `luaotfload.harf.glyphstream' in `glyph_stream_provider'.
+Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_hlist' in `hpack_filter'.
+Inserting `luaotfload.cleanup_files' in `wrapup_run'.
+Inserting `luaotfload.harf.finalize_unicode' in `finish_pdffile'.
+Inserting `luaotfload.glyphinfo' in `glyph_info'.
+Lua-only attribute luaotfload.letterspace_done = 3
+Inserting `luaotfload.aux.set_sscale_dimens' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_font_index' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.patch_cambria_domh' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.fixup_fontdata' in `luaotfload.patch_font_unsafe'.
+Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
+Inserting `tracingstacklevels' in `input_level_string'. (./awesome-source-cv.cl
+s
 Document Class: awesome-source-cv 2016/11/05 v1.6.1 Awesome Source CV Class
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/base/article.cls
-Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/base/size10.clo
-File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+File: size10.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
 luaotfload | db : Font names database loaded from C:/Users/dario/AppData/Local/M
-iKTeX/luatex-cache/generic/names/luaotfload-names.luc)
-\c@part=\count183
-\c@section=\count184
-\c@subsection=\count185
-\c@subsubsection=\count186
-\c@paragraph=\count187
-\c@subparagraph=\count188
-\c@figure=\count189
-\c@table=\count190
-\abovecaptionskip=\skip47
-\belowcaptionskip=\skip48
-\bibindent=\dimen137
+iKTeX/luatex-cache/generic/names/luaotfload-names.luc.gz)
+\c@part=\count194
+\c@section=\count195
+\c@subsection=\count196
+\c@subsubsection=\count197
+\c@paragraph=\count198
+\c@subparagraph=\count199
+\c@figure=\count266
+\c@table=\count267
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen140
 )
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty
-Package: babel 2022/01/26 3.70 The Babel package
+Package: babel 2024/11/30 v24.14 The multilingual framework for pdfLaTeX, LuaLa
+TeX and XeLaTeX
 
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/babel/luababel.def
 \bbl@readstream=\read2
@@ -148,15 +144,15 @@ Package babel Info: Non-standard hyphenation setup on input line 118.
 \l@uppersorbian=\language76
 \l@usenglishmax=\language77
 \l@welsh=\language78
-\babelcatcodetablenum=\catcodetable12
-\bbl@pattcodes=\catcodetable13
+\babelcatcodetablenum=\catcodetable14
+\bbl@pattcodes=\catcodetable15
 )
-\babel@savecnt=\count191
-\U@D=\dimen138
+\babel@savecnt=\count268
+\U@D=\dimen141
 \l@unhyphenated=\language79
 
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/babel/luababel.def
-\bbl@attr@locale=\attribute5
+\bbl@attr@locale=\attribute4
 )
 *************************************
 * Local config file bblopts.cfg used
@@ -167,7 +163,7 @@ File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
 )
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/babel-french/frenchb.
 ldf
-Language: frenchb 2021/07/20 v3.5m French support from the babel system
+Language: frenchb 2024-07-25 v3.6c French support from the babel system
 
 
 Package babel-french Warning: Option `frenchb' for Babel is *deprecated*,
@@ -177,36 +173,37 @@ Package babel-french Warning: Option `frenchb' for Babel is *deprecated*,
 
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/babel-french/french.l
 df
-Language: french 2021/07/20 v3.5m French support from the babel system
+Language: french 2024-07-25 v3.6c French support from the babel system
 Package babel Info: Hyphen rules for 'acadian' set to \l@french
 (babel)             (\language23). Reported on input line 91.
 Package babel Info: Hyphen rules for 'canadien' set to \l@french
 (babel)             (\language23). Reported on input line 92.
-\FB@nonchar=\count192
-\FB@spacing=\attribute6
-\FB@addDPspace=\attribute7
-\FB@addGUILspace=\attribute8
-\FB@ucsNBSP=\attribute9
-\FB@dialect=\attribute10
+\FB@stdchar=\count269
+\FB@spacing=\attribute5
+\FB@addDPspace=\attribute6
+\FB@addGUILspace=\attribute7
+\FB@ucsNBSP=\attribute8
+\FB@dialect=\attribute9
 Package french.ldf Info: No need for active punctuation characters
 (french.ldf)             with this version of LuaTeX!
-(french.ldf)             reported on input line 254.
-\FBguill@level=\count193
-\FBold@everypar=\toks16
-\FB@Mht=\dimen139
-\mc@charclass=\count194
-\mc@charfam=\count195
-\mc@charslot=\count196
-\std@mcc=\count197
-\dec@mcc=\count198
-Inserting `frenchb.french_punctuation' at position 1 in `kerning'.
-\listindentFB=\dimen140
-\descindentFB=\dimen141
-\labelindentFB=\dimen142
-\labelwidthFB=\dimen143
-\leftmarginFB=\dimen144
-\parindentFFN=\dimen145
-\FBfnindent=\dimen146
+(french.ldf)             reported on input line 250.
+\FBguill@level=\count270
+\FBold@everypar=\toks17
+\FB@Mht=\dimen142
+\mc@charclass=\count271
+\mc@charfam=\count272
+\mc@charslot=\count273
+\std@mcc=\count274
+\dec@mcc=\count275
+Inserting `frenchb.french_punctuation' in `kerning'.
+\FB@parskip=\dimen143
+\listindentFB=\dimen144
+\descindentFB=\dimen145
+\labelindentFB=\dimen146
+\labelwidthFB=\dimen147
+\leftmarginFB=\dimen148
+\parindentFFN=\dimen149
+\FBfnindent=\dimen150
 
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/hyph-utf8/loadhyph/lo
 adhyph-fr.tex UTF-8 French hyphenation patterns
@@ -215,10 +212,6 @@ x/hyph-fr.tex)
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/hyph-utf8/patterns/qu
 ote/hyph-quote-fr.tex)))))
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/carlisle/scalefnt.sty)
-(C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks17
-)
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/lualatex/luainputenc/luainput
 enc.sty
 Package: luainputenc 2010/11/19 v0.973 inputenc package for LuaTeX
@@ -227,7 +220,7 @@ Package: luainputenc 2010/11/19 v0.973 inputenc package for LuaTeX
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/iftex/iftex.sty
-Package: iftex 2022/02/03 v1.0f TeX engine tests
+Package: iftex 2024/12/12 v1.0g TeX engine tests
 ))
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/iftex/ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
@@ -239,12 +232,12 @@ Package: luatexbase 2015/10/04 v1.3 luatexbase interface to LuaTeX
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/luatex/ctablestack/ctablestac
 k.sty
 Package: ctablestack 2015/10/01 v1.0 Catcode table stable support
-\@catcodetablestackcnt=\count199
+\@catcodetablestackcnt=\count276
 )
-\CatcodeTableOther=\catcodetable14
-\CatcodeTableExpl=\catcodetable15
+\CatcodeTableOther=\catcodetable16
+\CatcodeTableExpl=\catcodetable17
 )
-Lua module: luainputenc 2010/05/10 0.97 Lua simple inputenc package.
+Lua module: luainputenc 2010/05/10 v0.97 Lua simple inputenc package.
 \inpenc@prehook=\toks18
 \inpenc@posthook=\toks19
 
@@ -256,25 +249,25 @@ Now handling font encoding OML ...
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encodingOMS
  (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/base/omsenc.dfu
-File: omsenc.dfu 2021/06/21 v1.2n UTF-8 support
+File: omsenc.dfu 2022/06/07 v1.3c UTF-8 support
 )
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encodingOT1
 
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/base/ot1enc.dfu
-File: ot1enc.dfu 2021/06/21 v1.2n UTF-8 support
+File: ot1enc.dfu 2022/06/07 v1.3c UTF-8 support
 )
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encodingT1
 
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/base/t1enc.dfu
-File: t1enc.dfu 2021/06/21 v1.2n UTF-8 support
+File: t1enc.dfu 2022/06/07 v1.3c UTF-8 support
 )
 Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encodingTS1
 
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/base/ts1enc.dfu
-File: ts1enc.dfu 2021/06/21 v1.2n UTF-8 support
+File: ts1enc.dfu 2022/06/07 v1.3c UTF-8 support
 )
 Now handling font encoding TU ...
 ... no UTF-8 mapping file for font encoding TU
@@ -287,104 +280,109 @@ Now handling font encoding U ...
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/l3packages/xparse/xpars
 e.sty
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/l3kernel/expl3.sty
-Package: expl3 2022-02-05 L3 programming layer (loader) 
+Package: expl3 2024-11-02 L3 programming layer (loader) 
 
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-lua
 tex.def
-File: l3backend-luatex.def 2022-02-07 L3 backend support: PDF output (LuaTeX)
-\l__color_backend_stack_int=\count266
-\l__pdf_internal_box=\box50
+File: l3backend-luatex.def 2024-05-08 L3 backend support: PDF output (LuaTeX)
+\l__color_backend_stack_int=\count277
+Inserting `l3color' in `luaotfload.parse_color'.
+\l__pdf_internal_box=\box52
 ))
-Package: xparse 2022-01-12 L3 Experimental document command parser
+Package: xparse 2024-08-16 L3 Experimental document command parser
 )
-Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
-Lua module: fontspec 2022/01/15 2.8a Font selection for XeLaTeX and LuaLaTeX
+Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+Lua module: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec-luate
 x.sty
-Package: fontspec-luatex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaT
+Package: fontspec-luatex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaT
 eX
-\l__fontspec_script_int=\count267
-\l__fontspec_language_int=\count268
-\l__fontspec_strnum_int=\count269
-\l__fontspec_tmp_int=\count270
-\l__fontspec_tmpa_int=\count271
-\l__fontspec_tmpb_int=\count272
-\l__fontspec_tmpc_int=\count273
-\l__fontspec_em_int=\count274
-\l__fontspec_emdef_int=\count275
-\l__fontspec_strong_int=\count276
-\l__fontspec_strongdef_int=\count277
-\l__fontspec_tmpa_dim=\dimen147
-\l__fontspec_tmpb_dim=\dimen148
-\l__fontspec_tmpc_dim=\dimen149
+\l__fontspec_script_int=\count278
+\l__fontspec_language_int=\count279
+\l__fontspec_strnum_int=\count280
+\l__fontspec_tmp_int=\count281
+\l__fontspec_tmpa_int=\count282
+\l__fontspec_tmpb_int=\count283
+\l__fontspec_tmpc_int=\count284
+\l__fontspec_em_int=\count285
+\l__fontspec_emdef_int=\count286
+\l__fontspec_strong_int=\count287
+\l__fontspec_strongdef_int=\count288
+\l__fontspec_tmpa_dim=\dimen151
+\l__fontspec_tmpb_dim=\dimen152
+\l__fontspec_tmpc_dim=\dimen153
  (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 ) (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec.cfg
 ))) (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty
-\Urlmuskip=\muskip16
+\Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/parskip/parskip.sty
 Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
 
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/kvoptions/kvoptions.sty
-Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
-(C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/ltxcmds/ltxcmds.sty
-Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+(C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
 )
-(C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/kvsetkeys/kvsetkeys.s
-ty
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+(C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 ))
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count278
+\etb@tempcnta=\count289
 )) (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
 
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Package option `usenames' ignored on input line 218.
-Package xcolor Info: Driver file: luatex.def on input line 227.
+
+Package xcolor Warning: Package option `usenames' is obsolete and ignored on in
+put line 265.
+
+Package xcolor Info: Driver file: luatex.def on input line 274.
 
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/graphics-def/luatex.def
-File: luatex.def 2021/06/01 v1.2c Graphics/color driver for luatex
+File: luatex.def 2024/04/13 v1.2e Graphics/color driver for luatex
 )
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
-Package xcolor Info: Model `RGB' extended on input line 1368.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
- (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/graphics/dvipsnam.def
+(C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/graphics/dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
-))
-(C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/preprint/fullpage.sty
+) (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/preprint/fullpage.sty
 Package: fullpage 1999/02/23 1.1 (PWD)
-\FP@margin=\skip49
-)
-(C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometry.sty
+\FP@margin=\skip51
+) (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
-
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count279
-\Gm@cntv=\count280
-\c@Gm@tempcnt=\count281
-\Gm@bindingoffset=\dimen150
-\Gm@wd@mp=\dimen151
-\Gm@odd@mp=\dimen152
-\Gm@even@mp=\dimen153
-\Gm@layoutwidth=\dimen154
-\Gm@layoutheight=\dimen155
-\Gm@layouthoffset=\dimen156
-\Gm@layoutvoffset=\dimen157
-\Gm@dimlist=\toks20
+\Gm@cnth=\count290
+\Gm@cntv=\count291
+\c@Gm@tempcnt=\count292
+\Gm@bindingoffset=\dimen154
+\Gm@wd@mp=\dimen155
+\Gm@odd@mp=\dimen156
+\Gm@even@mp=\dimen157
+\Gm@layoutwidth=\dimen158
+\Gm@layoutheight=\dimen159
+\Gm@layouthoffset=\dimen160
+\Gm@layoutvoffset=\dimen161
+\Gm@dimlist=\toks21
 
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometry.cfg)) (./fontawesome.sty
 Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
@@ -394,32 +392,51 @@ X/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
 luaotfload | aux : font no 18 (nil) defines no feature for script latn
 luaotfload | aux : font no 18 (nil) defines no feature for script dflt
 
-Package fontspec Info: Could not resolve font "FontAwesome/BI" (it probably
+Package fontspec Info: 
+(fontspec)             Could not resolve font "FontAwesome/BI" (it probably
 (fontspec)             doesn't exist).
 
 
-Package fontspec Info: Could not resolve font "FontAwesome/B" (it probably
+Package fontspec Info: 
+(fontspec)             Could not resolve font "FontAwesome/B" (it probably
 (fontspec)             doesn't exist).
 
 
-Package fontspec Info: Could not resolve font "FontAwesome/I" (it probably
+Package fontspec Info: 
+(fontspec)             Could not resolve font "FontAwesome/I" (it probably
 (fontspec)             doesn't exist).
 
+luaotfload | aux : font no 18 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 18 (nil) does not define feature smcp for script dflt
+ with language dflt
+luaotfload | aux : font no 18 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 18 (nil) does not define feature smcp for script dflt
+ with language dflt
 
-Package fontspec Info: Font family 'FontAwesome(0)' created for font
+Package fontspec Info: 
+(fontspec)             Font family 'FontAwesome(0)' created for font
 (fontspec)             'FontAwesome' with options [].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"FontAwesome:mode=node;language=dflt;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             <->"name:FontAwesome:mode=node;language=dflt;"
 
 
 (./fontawesomesymbols-xeluatex.tex))
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
+
+(C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/kvdefinekeys/kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pdfescape/pdfescape.s
+ty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pdftexcmds/pdftexcmds
 .sty
@@ -433,61 +450,54 @@ Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-\pdftexcmds@toks=\toks21
-)
-(C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/kvdefinekeys/kvdefine
-keys.sty
-Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-)
-(C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pdfescape/pdfescape.s
-ty
-Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-) (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/hycolor/hycolor.sty
+\pdftexcmds@toks=\toks22
+))
+(C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-(C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/letltxmacro/letltxmacro
-.sty
-Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-)
-(C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/auxhook/auxhook.sty
-Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
-)
-\@linkdim=\dimen158
-\Hy@linkcounter=\count282
-\Hy@pagecounter=\count283
+(C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
 
-(C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+(C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/gettitlestring/gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count293
+)
+(C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/stringenc/stringenc.s
+ty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen162
+\Hy@linkcounter=\count294
+\Hy@pagecounter=\count295
+ (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
 NowhandlingfontencodingPD1...
 ...noUTF-8mappingfileforfontencodingPD1
-)
-(C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/hyperref-langp
-atches.def
-File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
-nguages
-)
-(C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/intcalc/intcalc.sty
+) (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-(C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/etexcmds/etexcmds.sty
-Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
-)
-\Hy@SavedSpaceFactor=\count284
+\Hy@SavedSpaceFactor=\count296
  (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/puenc.def
-File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
 NowhandlingfontencodingPU...
 ...noUTF-8mappingfileforfontencodingPU
 )
-Package hyperref Info: Hyper figures OFF on input line 4192.
-Package hyperref Info: Link nesting OFF on input line 4197.
-Package hyperref Info: Hyper index ON on input line 4200.
-Package hyperref Info: Plain pages OFF on input line 4207.
-Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing OFF on input line 4177.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4445.
-\c@Hy@tempcnt=\count285
-LaTeX Info: Redefining \url on input line 4804.
-\XeTeXLinkMargin=\dimen159
+Package hyperref Info: Bookmarks ON on input line 4424.
+\c@Hy@tempcnt=\count297
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen163
 
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -497,106 +507,99 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count286
-\Field@Width=\dimen160
-\Fld@charsize=\dimen161
-Package hyperref Info: Hyper figures OFF on input line 6076.
-Package hyperref Info: Link nesting OFF on input line 6081.
-Package hyperref Info: Hyper index ON on input line 6084.
-Package hyperref Info: backreferencing OFF on input line 6091.
-Package hyperref Info: Link coloring OFF on input line 6096.
-Package hyperref Info: Link coloring with OCG OFF on input line 6101.
-Package hyperref Info: PDF/A mode OFF on input line 6106.
-LaTeX Info: Redefining \ref on input line 6146.
-LaTeX Info: Redefining \pageref on input line 6150.
+\Fld@menulength=\count298
+\Field@Width=\dimen164
+\Fld@charsize=\dimen165
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
 
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count287
-\c@Item=\count288
-\c@Hfootnote=\count289
+\Hy@abspage=\count299
+\c@Item=\count300
+\c@Hfootnote=\count301
 )
 Package hyperref Info: Driver (autodetected): hluatex.
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/hluatex.def
-File: hluatex.def 2021-06-07 v7.00m Hyperref driver for luaTeX
+File: hluatex.def 2024-11-05 v7.01l Hyperref driver for luaTeX
 
-(C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/stringenc/stringenc.s
-ty
-Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
-)
-)
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count290
-\c@bookmark@seq@number=\count291
+\Fld@listcount=\count302
+\c@bookmark@seq@number=\count303
 
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfil
 echeck.sty
-Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
 
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/uniquecounter/uniquec
 ounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-86.
+85.
 )
-\Hy@SectionHShift=\skip50
+\Hy@SectionHShift=\skip52
 )
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty
-Package: titlesec 2021/07/05 v2.14 Sectioning titles
-\ttl@box=\box51
-\beforetitleunit=\skip51
-\aftertitleunit=\skip52
-\ttl@plus=\dimen162
-\ttl@minus=\dimen163
-\ttl@toksa=\toks22
-\titlewidth=\dimen164
-\titlewidthlast=\dimen165
-\titlewidthfirst=\dimen166
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box53
+\beforetitleunit=\skip53
+\aftertitleunit=\skip54
+\ttl@plus=\dimen166
+\ttl@minus=\dimen167
+\ttl@toksa=\toks23
+\titlewidth=\dimen168
+\titlewidthlast=\dimen169
+\titlewidthfirst=\dimen170
 )
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.sty
-Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
-\col@sep=\dimen167
-\ar@mcellbox=\box52
-\extrarowheight=\dimen168
-\NC@list=\toks23
-\extratabsurround=\skip53
-\backup@length=\skip54
-\ar@cellbox=\box53
+Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
+\col@sep=\dimen171
+\ar@mcellbox=\box54
+\extrarowheight=\dimen172
+\NC@list=\toks24
+\extratabsurround=\skip55
+\backup@length=\skip56
+\ar@cellbox=\box55
 )
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
-\labelindent=\skip55
-\enit@outerparindent=\dimen169
-\enit@toks=\toks24
-\enit@inbox=\box54
-\enit@count@id=\count292
-\enitdp@description=\count293
+\labelindent=\skip57
+\enit@outerparindent=\dimen173
+\enit@toks=\toks25
+\enit@inbox=\box56
+\enit@count@id=\count304
+\enitdp@description=\count305
 )
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/tools/longtable.sty
-Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
-\LTleft=\skip56
-\LTright=\skip57
-\LTpre=\skip58
-\LTpost=\skip59
-\LTchunksize=\count294
-\LTcapwidth=\dimen170
-\LT@head=\box55
-\LT@firsthead=\box56
-\LT@foot=\box57
-\LT@lastfoot=\box58
-\LT@gbox=\box59
-\LT@cols=\count295
-\LT@rows=\count296
-\c@LT@tables=\count297
-\c@LT@chunks=\count298
-\LT@p@ftn=\toks25
+Package: longtable 2024-10-27 v4.22 Multi-page Table package (DPC)
+\LTleft=\skip58
+\LTright=\skip59
+\LTpre=\skip60
+\LTpost=\skip61
+\LTchunksize=\count306
+\LTcapwidth=\dimen174
+\LT@head=\box57
+\LT@firsthead=\box58
+\LT@foot=\box59
+\LT@lastfoot=\box60
+\LT@gbox=\box61
+\LT@cols=\count307
+\LT@rows=\count308
+\c@LT@tables=\count309
+\c@LT@chunks=\count310
+\LT@p@ftn=\toks26
 )
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/pgf/frontendlayer/tikz.
 sty
@@ -605,22 +608,20 @@ sty
 y
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgfutil
 -common.tex
-\pgfutil@everybye=\toks26
-\pgfutil@tempdima=\dimen171
-\pgfutil@tempdimb=\dimen172
-
-(C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgfutil
--common-lists.tex))
+\pgfutil@everybye=\toks27
+\pgfutil@tempdima=\dimen175
+\pgfutil@tempdimb=\dimen176
+)
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgfutil
 -latex.def
-\pgfutil@abb=\box60
+\pgfutil@abb=\box62
 )
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgfrcs.
 code.tex
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/pgf.revision.tex)
-Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
 ))
-Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
 
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/pgf/basiclayer/pgfcore.
 sty
@@ -628,101 +629,99 @@ sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/graphics/graphics.sty
-Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
 
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.sty
-Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
 )
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/graphics.c
 fg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: luatex.def on input line 107.
+Package graphics Info: Driver file: luatex.def on input line 106.
 )
-\Gin@req@height=\dimen173
-\Gin@req@width=\dimen174
+\Gin@req@height=\dimen177
+\Gin@req@width=\dimen178
 )
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/pgf/systemlayer/pgfsys.
 sty
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/pgfsy
 s.code.tex
-Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgfkeys
 .code.tex
-\pgfkeys@pathtoks=\toks27
-\pgfkeys@temptoks=\toks28
+\pgfkeys@pathtoks=\toks28
+\pgfkeys@temptoks=\toks29
 
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgfkeys
-filtered.code.tex
-\pgfkeys@tmptoks=\toks29
+libraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks30
 ))
-\pgf@x=\dimen175
-\pgf@y=\dimen176
-\pgf@xa=\dimen177
-\pgf@ya=\dimen178
-\pgf@xb=\dimen179
-\pgf@yb=\dimen180
-\pgf@xc=\dimen181
-\pgf@yc=\dimen182
-\pgf@xd=\dimen183
-\pgf@yd=\dimen184
+\pgf@x=\dimen179
+\pgf@y=\dimen180
+\pgf@xa=\dimen181
+\pgf@ya=\dimen182
+\pgf@xb=\dimen183
+\pgf@yb=\dimen184
+\pgf@xc=\dimen185
+\pgf@yc=\dimen186
+\pgf@xd=\dimen187
+\pgf@yd=\dimen188
 \w@pgf@writea=\write3
 \r@pgf@reada=\read3
-\c@pgf@counta=\count299
-\c@pgf@countb=\count300
-\c@pgf@countc=\count301
-\c@pgf@countd=\count302
-\t@pgf@toka=\toks30
-\t@pgf@tokb=\toks31
-\t@pgf@tokc=\toks32
-\pgf@sys@id@count=\count303
+\c@pgf@counta=\count311
+\c@pgf@countb=\count312
+\c@pgf@countc=\count313
+\c@pgf@countd=\count314
+\t@pgf@toka=\toks31
+\t@pgf@tokb=\toks32
+\t@pgf@tokc=\toks33
+\pgf@sys@id@count=\count315
 
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/pgf.c
 fg
-File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
 Driver file for pgf: pgfsys-luatex.def
 
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/pgfsy
 s-luatex.def
-File: pgfsys-luatex.def 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfsys-luatex.def 2023-01-15 v3.1.10 (3.1.10)
 
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/pgfsy
 s-common-pdf.def
-File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
 )))
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/pgfsy
 ssoftpath.code.tex
-File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfsyssoftpath@smallbuffer@items=\count304
-\pgfsyssoftpath@bigbuffer@items=\count305
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count316
+\pgfsyssoftpath@bigbuffer@items=\count317
 )
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/pgfsy
 sprotocol.code.tex
-File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcor
 e.code.tex
-Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
 
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmath.code
 .tex
-(C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathcalc.
-code.tex
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathutil.
 code.tex)
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathparse
 r.code.tex
-\pgfmath@dimen=\dimen185
-\pgfmath@count=\count306
-\pgfmath@box=\box61
-\pgfmath@toks=\toks33
-\pgfmath@stack@operand=\toks34
-\pgfmath@stack@operation=\toks35
+\pgfmath@dimen=\dimen189
+\pgfmath@count=\count318
+\pgfmath@box=\box63
+\pgfmath@toks=\toks34
+\pgfmath@stack@operand=\toks35
+\pgfmath@stack@operation=\toks36
 )
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfunct
-ions.code.tex
+ions.code.tex)
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfunct
 ions.basic.code.tex)
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfunct
@@ -738,130 +737,132 @@ ions.round.code.tex)
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfunct
 ions.misc.code.tex)
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfunct
-ions.integerarithmetics.code.tex)))
+ions.integerarithmetics.code.tex)
+(C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathcalc.
+code.tex)
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfloat
 .code.tex
-\c@pgfmathroundto@lastzeros=\count307
+\c@pgfmathroundto@lastzeros=\count319
 ))
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfint.code.
 tex)
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcor
 epoints.code.tex
-File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@picminx=\dimen186
-\pgf@picmaxx=\dimen187
-\pgf@picminy=\dimen188
-\pgf@picmaxy=\dimen189
-\pgf@pathminx=\dimen190
-\pgf@pathmaxx=\dimen191
-\pgf@pathminy=\dimen192
-\pgf@pathmaxy=\dimen193
-\pgf@xx=\dimen194
-\pgf@xy=\dimen195
-\pgf@yx=\dimen196
-\pgf@yy=\dimen197
-\pgf@zx=\dimen198
-\pgf@zy=\dimen199
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen190
+\pgf@picmaxx=\dimen191
+\pgf@picminy=\dimen192
+\pgf@picmaxy=\dimen193
+\pgf@pathminx=\dimen194
+\pgf@pathmaxx=\dimen195
+\pgf@pathminy=\dimen196
+\pgf@pathmaxy=\dimen197
+\pgf@xx=\dimen198
+\pgf@xy=\dimen199
+\pgf@yx=\dimen256
+\pgf@yy=\dimen257
+\pgf@zx=\dimen258
+\pgf@zy=\dimen259
 )
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcor
 epathconstruct.code.tex
-File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@path@lastx=\dimen256
-\pgf@path@lasty=\dimen257
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen260
+\pgf@path@lasty=\dimen261
 )
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcor
 epathusage.code.tex
-File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@shorten@end@additional=\dimen258
-\pgf@shorten@start@additional=\dimen259
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen262
+\pgf@shorten@start@additional=\dimen263
 )
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcor
 escopes.code.tex
-File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfpic=\box62
-\pgf@hbox=\box63
-\pgf@layerbox@main=\box64
-\pgf@picture@serial@count=\count308
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box64
+\pgf@hbox=\box65
+\pgf@layerbox@main=\box66
+\pgf@picture@serial@count=\count320
 )
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcor
 egraphicstate.code.tex
-File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgflinewidth=\dimen260
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen264
 )
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcor
 etransformations.code.tex
-File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@pt@x=\dimen261
-\pgf@pt@y=\dimen262
-\pgf@pt@temp=\dimen263
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen265
+\pgf@pt@y=\dimen266
+\pgf@pt@temp=\dimen267
 )
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcor
 equick.code.tex
-File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcor
 eobjects.code.tex
-File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcor
 epathprocessing.code.tex
-File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcor
 earrows.code.tex
-File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfarrowsep=\dimen264
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen268
 )
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcor
 eshade.code.tex
-File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@max=\dimen265
-\pgf@sys@shading@range@num=\count309
-\pgf@shadingcount=\count310
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen269
+\pgf@sys@shading@range@num=\count321
+\pgf@shadingcount=\count322
 )
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcor
 eimage.code.tex
-File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcor
 eexternal.code.tex
-File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfexternal@startupbox=\box65
-))
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box67
+)
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcor
 elayers.code.tex
-File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcor
 etransparency.code.tex
-File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcor
 epatterns.code.tex
-File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcor
 erdf.code.tex
-File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )))
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/modules/pgfmodule
 shapes.code.tex
-File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfnodeparttextbox=\box66
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box68
 )
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/modules/pgfmodule
 plot.code.tex
-File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/pgf/compatibility/pgfco
 mp-version-0-65.sty
-Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@nodesepstart=\dimen266
-\pgf@nodesepend=\dimen267
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen270
+\pgf@nodesepend=\dimen271
 )
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/pgf/compatibility/pgfco
 mp-version-1-18.sty
-Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
 ))
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/pgf/utilities/pgffor.st
 y
@@ -874,61 +875,58 @@ ty
 .tex))
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgffor.
 code.tex
-Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
-
-(C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmath.code
-.tex)
-\pgffor@iter=\dimen268
-\pgffor@skip=\dimen269
-\pgffor@stack=\toks36
-\pgffor@toks=\toks37
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen272
+\pgffor@skip=\dimen273
+\pgffor@stack=\toks37
+\pgffor@toks=\toks38
 ))
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendlayer/tik
 z/tikz.code.tex
-Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
 
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/libraries/pgflibr
 aryplothandlers.code.tex
-File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@plot@mark@count=\count311
-\pgfplotmarksize=\dimen270
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count323
+\pgfplotmarksize=\dimen274
 )
-\tikz@lastx=\dimen271
-\tikz@lasty=\dimen272
-\tikz@lastxsaved=\dimen273
-\tikz@lastysaved=\dimen274
-\tikz@lastmovetox=\dimen275
-\tikz@lastmovetoy=\dimen276
-\tikzleveldistance=\dimen277
-\tikzsiblingdistance=\dimen278
-\tikz@figbox=\box67
-\tikz@figbox@bg=\box68
-\tikz@tempbox=\box69
-\tikz@tempbox@bg=\box70
-\tikztreelevel=\count312
-\tikznumberofchildren=\count313
-\tikznumberofcurrentchild=\count314
-\tikz@fig@count=\count315
+\tikz@lastx=\dimen275
+\tikz@lasty=\dimen276
+\tikz@lastxsaved=\dimen277
+\tikz@lastysaved=\dimen278
+\tikz@lastmovetox=\dimen279
+\tikz@lastmovetoy=\dimen280
+\tikzleveldistance=\dimen281
+\tikzsiblingdistance=\dimen282
+\tikz@figbox=\box69
+\tikz@figbox@bg=\box70
+\tikz@tempbox=\box71
+\tikz@tempbox@bg=\box72
+\tikztreelevel=\count324
+\tikznumberofchildren=\count325
+\tikznumberofcurrentchild=\count326
+\tikz@fig@count=\count327
 
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/modules/pgfmodule
 matrix.code.tex
-File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfmatrixcurrentrow=\count316
-\pgfmatrixcurrentcolumn=\count317
-\pgf@matrix@numberofcolumns=\count318
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count328
+\pgfmatrixcurrentcolumn=\count329
+\pgf@matrix@numberofcolumns=\count330
 )
-\tikz@expandcount=\count319
+\tikz@expandcount=\count331
 
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendlayer/tik
 z/libraries/tikzlibrarytopaths.code.tex
-File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )))
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/tcolorbox/tcolorbox.sty
-Package: tcolorbox 2022/01/07 version 5.0.2 text color boxes
+Package: tcolorbox 2024/10/22 version 6.4.1 text color boxes
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/tools/verbatim.sty
-Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks38
-\verbatim@line=\toks39
+Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks39
+\verbatim@line=\toks40
 \verbatim@in@stream=\read4
 )
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/environ/environ.sty
@@ -938,28 +936,42 @@ Package: environ 2014/05/04 v0.3 A new way to define environments
 ty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 )
-\@envbody=\toks40
+\@envbody=\toks41
 )
-\tcb@titlebox=\box71
-\tcb@upperbox=\box72
-\tcb@lowerbox=\box73
-\tcb@phantombox=\box74
-\c@tcbbreakpart=\count320
-\c@tcblayer=\count321
-\c@tcolorbox@number=\count322
-\tcb@temp=\box75
-\tcb@temp=\box76
-\tcb@temp=\box77
+\tcb@titlebox=\box73
+\tcb@upperbox=\box74
+\tcb@lowerbox=\box75
+\tcb@phantombox=\box76
+\c@tcbbreakpart=\count332
+\c@tcblayer=\count333
+\c@tcolorbox@number=\count334
+\l__tcobox_tmpa_box=\box77
+\l__tcobox_tmpa_dim=\dimen283
 \tcb@temp=\box78
+\tcb@temp=\box79
+\tcb@temp=\box80
+\tcb@temp=\box81
 
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/tcolorbox/tcbskins.code
 .tex
-Library (tcolorbox): 'tcbskins.code.tex' version '5.0.2'
-\tcb@waterbox=\box79
+Library (tcolorbox): 'tcbskins.code.tex' version '6.4.1'
 
+(C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/tikzfill/tikzfill.image
+.sty
+Package: tikzfill.image 2023/08/08 v1.0.1 Image filling library for TikZ
+
+(C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/tikzfill/tikzfill-commo
+n.sty
+Package: tikzfill-common 2023/08/08 v1.0.1 Auxiliary code for tikzfill
+)
+(C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/tikzfill/tikzlibraryfil
+l.image.code.tex
+File: tikzlibraryfill.image.code.tex 2023/08/08 v1.0.1 Image filling library
+\l__tikzfill_img_box=\box82
+))
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/tcolorbox/tcbskinsjigsa
 w.code.tex
-Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '5.0.2'
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.4.1'
 )))
 Package hyperref Info: Option `breaklinks' set `true' on input line 93.
 luaotfload | db : Reload initiated (formats: otf,ttf,ttc); reason: File not foun
@@ -967,11 +979,21 @@ d: "fonts/FontAwesome".
 luaotfload | aux : font no 21 (nil) defines no feature for script latn
 luaotfload | aux : font no 21 (nil) defines no feature for script dflt
 
-Package fontspec Warning: Input mapping not supported in LuaTeX.
+Package fontspec Warning: 
+(fontspec)                Input mapping not supported in LuaTeX.
 (fontspec)                 Use "Ligatures=TeX" instead of "Mapping=tex-text".
 
+luaotfload | aux : font no 21 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 21 (nil) does not define feature smcp for script dflt
+ with language dflt
+luaotfload | aux : font no 21 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 21 (nil) does not define feature smcp for script dflt
+ with language dflt
 
-Package fontspec Info: Font family 'FontAwesome(1)' created for font
+Package fontspec Info: 
+(fontspec)             Font family 'FontAwesome(1)' created for font
 (fontspec)             'FontAwesome' with options
 (fontspec)             [Mapping=tex-text,Path=fonts/].
 (fontspec)              
@@ -980,7 +1002,6 @@ Package fontspec Info: Font family 'FontAwesome(1)' created for font
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
 (fontspec)             <->"[fonts/FontAwesome]:mode=node;language=dflt;+tlig;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 
 ! LaTeX cmd Error: Command '\FA' already defined.
@@ -998,11 +1019,13 @@ The existing definition of '\FA' will not be altered.
 
 
 
-Package fontspec Warning: Input mapping not supported in LuaTeX.
+Package fontspec Warning: 
+(fontspec)                Input mapping not supported in LuaTeX.
 (fontspec)                 Use "Ligatures=TeX" instead of "Mapping=tex-text".
 
 
-Package fontspec Info: Font family 'SourceSansPro-Light(0)' created for font
+Package fontspec Info: 
+(fontspec)             Font family 'SourceSansPro-Light(0)' created for font
 (fontspec)             'SourceSansPro-Light' with options
 (fontspec)             [Mapping=tex-text,Ligatures=TeX,Path = fonts/,BoldFont
 (fontspec)             = SourceSansPro-Semibold,ItalicFont =
@@ -1031,129 +1054,129 @@ language=dflt;+tlig;"
 (fontspec)             <->"[fonts/SourceSansPro-Regular]:mode=node;script=latn;
 language=dflt;+tlig;"
 
-\rightcolumnlength=\skip60
-\leftcolumn=\skip61
+\rightcolumnlength=\skip62
+\leftcolumn=\skip63
 ) (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/multirow/multirow.sty
-Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
-\multirow@colwidth=\skip62
-\multirow@cntb=\count323
-\multirow@dima=\skip63
-\bigstrutjot=\dimen279
-) (./awesome-cv.aux)
+Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
+\multirow@colwidth=\skip64
+\multirow@cntb=\count335
+\multirow@dima=\skip65
+\bigstrutjot=\dimen284
+) (./awesome-cv.aux
+(C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/babel/locale/fr/babel
+-french.tex
+Package babel Info: Importing font and identification data for french
+(babel)             from babel-fr.ini. Reported on input line 11.
+))
 \openout1 = awesome-cv.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
-5.
-
-(C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/base/ts1cmr.fd
-File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-)
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
 Package french.ldf Info: Setting StandardItemizeEnv=true for
 (french.ldf)             compatibility with enumitem package,
-(french.ldf)             reported on input line 35.
+(french.ldf)             reported on input line 38.
 Package french.ldf Info: Setting StandardEnumerateEnv=true for
 (french.ldf)             compatibility with enumitem package,
-(french.ldf)             reported on input line 35.
-LaTeX Info: Redefining \up on input line 35.
+(french.ldf)             reported on input line 38.
+LaTeX Info: Redefining \up on input line 38.
 
-Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+Package fontspec Info: 
+(fontspec)             Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 35.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 35.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 35.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 35.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 35.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 35.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 35.
-LaTeX Font Info:    Redeclaring math accent \check on input line 35.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 35.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 35.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 35.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 35.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 35.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 35.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 35.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 35.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 35.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 35.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 35.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 35.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 35.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 35.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 35.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 35.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 35.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 38.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 38.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 38.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 38.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 38.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 38.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 38.
+LaTeX Font Info:    Redeclaring math accent \check on input line 38.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 38.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 38.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 38.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 38.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 35.
+(Font)              `operators' in the math version `normal' on input line 38.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/SourceSansPro-Light(0)/m/n on input 
-line 35.
+line 38.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 35.
+(Font)              `operators' in the math version `bold' on input line 38.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/SourceSansPro-Light(0)/m/n on input
- line 35.
+ line 38.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/SourceSansPro-Light(0)/m/n --> TU/SourceSansPro-Ligh
-t(0)/m/n on input line 35.
+t(0)/m/n on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/SourceSansPro-Light(0)/m/it on inpu
-t line 35.
+t line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/SourceSansPro-Light(0)/b/n on input
- line 35.
+ line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 35.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 35.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 38.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/SourceSansPro-Light(0)/m/n --> TU/SourceSansPro-Ligh
-t(0)/b/n on input line 35.
+t(0)/b/n on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/SourceSansPro-Light(0)/b/it on inp
-ut line 35.
+ut line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 35.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 35.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 38.
 
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count324
-\scratchdimen=\dimen280
-\scratchbox=\box80
-\nofMPsegments=\count325
-\nofMParguments=\count326
-\everyMPshowfont=\toks41
-\MPscratchCnt=\count327
-\MPscratchDim=\dimen281
-\MPnumerator=\count328
-\makeMPintoPDFobject=\count329
-\everyMPtoPDFconversion=\toks42
+\scratchcounter=\count336
+\scratchdimen=\dimen285
+\scratchbox=\box83
+\nofMPsegments=\count337
+\nofMParguments=\count338
+\everyMPshowfont=\toks42
+\MPscratchCnt=\count339
+\MPscratchDim=\dimen286
+\MPnumerator=\count340
+\makeMPintoPDFobject=\count341
+\everyMPtoPDFconversion=\toks43
 )
 (C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/epstopdf-pkg/epstopdf-b
 ase.sty
@@ -1199,75 +1222,65 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 35.
-(C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/nameref.sty
-Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
-
-(C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty
-Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-)
-(C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/generic/gettitlestring/gettit
-lestring.sty
-Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
-)
-\c@section@level=\count330
-)
-LaTeX Info: Redefining \ref on input line 35.
-LaTeX Info: Redefining \pageref on input line 35.
-LaTeX Info: Redefining \nameref on input line 35.
- (./awesome-cv.out) (./awesome-cv.out)
+Package hyperref Info: Link coloring OFF on input line 38.
+(./awesome-cv.out) (./awesome-cv.out)
 \@outlinefile=\write4
 
 \openout4 = awesome-cv.out
-<icon/scholar.jpg, id=71, 377.91188pt x 487.8225pt>
+<icon/bluesky-seeklogo.png, id=60, 2007.5pt x 1767.60374pt>
+File: icon/bluesky-seeklogo.png Graphic file (type png)
+<use icon/bluesky-seeklogo.png>
+Package luatex.def Info: icon/bluesky-seeklogo.png  used on input line 40.
+(luatex.def)             Requested size: 5.05426pt x 5.04366pt.
+<icon/scholar.jpg, id=65, 377.91188pt x 487.8225pt>
 File: icon/scholar.jpg Graphic file (type jpg)
 <use icon/scholar.jpg>
-Package luatex.def Info: icon/scholar.jpg  used on input line 37.
+Package luatex.def Info: icon/scholar.jpg  used on input line 40.
 (luatex.def)             Requested size: 7.22537pt x 7.22025pt.
-<icon/orcid.jpg, id=74, 298.11375pt x 298.11375pt>
+<icon/orcid.jpg, id=68, 298.11375pt x 298.11375pt>
 File: icon/orcid.jpg Graphic file (type jpg)
 <use icon/orcid.jpg>
-Package luatex.def Info: icon/orcid.jpg  used on input line 37.
+Package luatex.def Info: icon/orcid.jpg  used on input line 40.
 (luatex.def)             Requested size: 7.22356pt x 7.22356pt.
-<icon/ideas.jpg, id=77, 90.3375pt x 120.45pt>
+<icon/ideas.jpg, id=71, 90.3375pt x 120.45pt>
 File: icon/ideas.jpg Graphic file (type jpg)
 <use icon/ideas.jpg>
-Package luatex.def Info: icon/ideas.jpg  used on input line 37.
+Package luatex.def Info: icon/ideas.jpg  used on input line 40.
 (luatex.def)             Requested size: 7.22714pt x 7.22668pt.
-<icon/webofscience.jpg, id=80, 150.5625pt x 150.5625pt>
+<icon/webofscience.jpg, id=74, 150.5625pt x 150.5625pt>
 File: icon/webofscience.jpg Graphic file (type jpg)
 <use icon/webofscience.jpg>
-Package luatex.def Info: icon/webofscience.jpg  used on input line 37.
+Package luatex.def Info: icon/webofscience.jpg  used on input line 40.
 (luatex.def)             Requested size: 7.2253pt x 7.2253pt.
 
 warning  (file icon/ssrn.jpg) (readjpg): Bad Exif resolution 0dpi x 0dpi (zero o
 r negative value of a signed integer)
-<icon/ssrn.jpg, id=83, 135.50626pt x 135.50626pt>
+<icon/ssrn.jpg, id=77, 135.50626pt x 135.50626pt>
 File: icon/ssrn.jpg Graphic file (type jpg)
 <use icon/ssrn.jpg>
-Package luatex.def Info: icon/ssrn.jpg  used on input line 37.
+Package luatex.def Info: icon/ssrn.jpg  used on input line 40.
 (luatex.def)             Requested size: 7.22646pt x 7.22646pt.
-<icon/bde.jpg, id=86, 513.92pt x 513.92pt>
+<icon/bde.jpg, id=80, 513.92pt x 513.92pt>
 File: icon/bde.jpg Graphic file (type jpg)
 <use icon/bde.jpg>
-Package luatex.def Info: icon/bde.jpg  used on input line 37.
+Package luatex.def Info: icon/bde.jpg  used on input line 40.
 (luatex.def)             Requested size: 7.22227pt x 7.22227pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 37.
+(Font)              <7> on input line 40.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 37.
-<avatar.png, id=90, 602.25pt x 602.25pt>
+(Font)              <5> on input line 40.
+<avatar.png, id=84, 602.25pt x 602.25pt>
 File: avatar.png Graphic file (type png)
 <use avatar.png>
-Package luatex.def Info: avatar.png  used on input line 37.
+Package luatex.def Info: avatar.png  used on input line 40.
 (luatex.def)             Requested size: 71.13188pt x 71.12737pt.
 (./section_interests.tex) (./section_affiliations.tex
-<icon/ubse.jpg, id=97, 197.73875pt x 197.73875pt>
+<icon/ubse.jpg, id=88, 197.73875pt x 197.73875pt>
 File: icon/ubse.jpg Graphic file (type jpg)
 <use icon/ubse.jpg>
 Package luatex.def Info: icon/ubse.jpg  used on input line 25.
 (luatex.def)             Requested size: 7.2263pt x 7.2263pt.
-<icon/ieb.jpg, id=99, 110.66344pt x 110.66344pt>
+<icon/ieb.jpg, id=90, 110.66344pt x 110.66344pt>
 File: icon/ieb.jpg Graphic file (type jpg)
 <use icon/ieb.jpg>
 Package luatex.def Info: icon/ieb.jpg  used on input line 26.
@@ -1281,22 +1294,10 @@ Package luatex.def Info: icon/ubse.jpg  used on input line 16.
 
 warning  (file icon/cunef.jpg) (readjpg): Bad Exif resolution 0dpi x 0dpi (zero 
 or negative value of a signed integer)
-<icon/cunef.jpg, id=102, 150.5625pt x 150.5625pt>
+<icon/cunef.jpg, id=93, 150.5625pt x 150.5625pt>
 File: icon/cunef.jpg Graphic file (type jpg)
 <use icon/cunef.jpg>
 Package luatex.def Info: icon/cunef.jpg  used on input line 16.
-(luatex.def)             Requested size: 6.50392pt x 6.50392pt.
-
-warning  (file icon/bdec.jpg) (readjpg): Bad Exif resolution 0dpi x 0dpi (zero o
-r negative value of a signed integer)
-<icon/bdec.jpg, id=107, 150.5625pt x 150.5625pt>
-File: icon/bdec.jpg Graphic file (type jpg)
-<use icon/bdec.jpg>
-Package luatex.def Info: icon/bdec.jpg  used on input line 21.
-(luatex.def)             Requested size: 6.50392pt x 6.50392pt.
-File: icon/bdec.jpg Graphic file (type jpg)
-<use icon/bdec.jpg>
-Package luatex.def Info: icon/bdec.jpg  used on input line 21.
 (luatex.def)             Requested size: 6.50392pt x 6.50392pt.
 ) (./section_education.tex
 File: icon/ubse.jpg Graphic file (type jpg)
@@ -1307,7 +1308,7 @@ Package luatex.def Info: icon/ubse.jpg  used on input line 27.
 Overfull \vbox (8.50525pt too high) detected at line 27
  []
 
-<icon/unima.jpg, id=120, 150.5625pt x 150.5625pt>
+<icon/unima.jpg, id=105, 150.5625pt x 150.5625pt>
 File: icon/unima.jpg Graphic file (type jpg)
 <use icon/unima.jpg>
 Package luatex.def Info: icon/unima.jpg  used on input line 36.
@@ -1316,7 +1317,7 @@ Package luatex.def Info: icon/unima.jpg  used on input line 36.
 Overfull \vbox (8.50586pt too high) detected at line 36
  []
 
-<icon/uam.jpg, id=124, 150.5625pt x 150.5625pt>
+<icon/uam.jpg, id=109, 150.5625pt x 150.5625pt>
 File: icon/uam.jpg Graphic file (type jpg)
 <use icon/uam.jpg>
 Package luatex.def Info: icon/uam.jpg  used on input line 44.
@@ -1325,22 +1326,8 @@ Package luatex.def Info: icon/uam.jpg  used on input line 44.
 Overfull \vbox (8.50586pt too high) detected at line 44
  []
 
-) (./section_publications.tex [1
-
-{C:/Users/dario/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}<./icon/scholar
-.jpg><./icon/orcid.jpg><./icon/ideas.jpg><./icon/webofscience.jpg><./icon/ssrn.j
-pg
-warning  (readjpg): Bad Exif resolution 0dpi x 0dpi (zero or negative value of a
- signed integer)
-><./icon/bde.jpg><./avatar.png><./icon/ubse.jpg><./icon/ieb.jpg><./icon/cunef.jp
-g
-warning  (readjpg): Bad Exif resolution 0dpi x 0dpi (zero or negative value of a
- signed integer)
-><./icon/bdec.jpg
-warning  (readjpg): Bad Exif resolution 0dpi x 0dpi (zero or negative value of a
- signed integer)
-><./icon/unima.jpg><./icon/uam.jpg>]
-<icon/doi.jpg, id=149, 2055.68pt x 2055.68pt>
+) (./section_publications.tex
+<icon/doi.jpg, id=118, 2055.68pt x 2055.68pt>
 File: icon/doi.jpg Graphic file (type jpg)
 <use icon/doi.jpg>
 Package luatex.def Info: icon/doi.jpg  used on input line 19.
@@ -1349,16 +1336,15 @@ File: icon/scholar.jpg Graphic file (type jpg)
 <use icon/scholar.jpg>
 Package luatex.def Info: icon/scholar.jpg  used on input line 20.
 (luatex.def)             Requested size: 7.22537pt x 7.22025pt.
-<icon/wp.jpg, id=152, 169.38281pt x 169.38281pt>
+<icon/wp.jpg, id=121, 169.38281pt x 169.38281pt>
 File: icon/wp.jpg Graphic file (type jpg)
 <use icon/wp.jpg>
 Package luatex.def Info: icon/wp.jpg  used on input line 20.
 (luatex.def)             Requested size: 7.22646pt x 7.22646pt.
-<icon/esp2050.jpg, id=156, 150.5625pt x 150.5625pt>
-File: icon/esp2050.jpg Graphic file (type jpg)
-<use icon/esp2050.jpg>
-Package luatex.def Info: icon/esp2050.jpg  used on input line 21.
-(luatex.def)             Requested size: 6.50392pt x 6.50392pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--22
+
+ []
 
 
 ! LaTeX Error: \begin{document} ended by \end{footnotesize}.
@@ -1367,125 +1353,82 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.21 ...aña 2050}}} \end{itemize}\end{footnotesize}
-                                                  
+l.23 \end{itemize}\end{footnotesize}
+                                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Extra \endgroup.
-<recently read> \endgroup 
-          
-l.21 ...aña 2050}}} \end{itemize}\end{footnotesize}
-                                                  
+\end  ...end#1\endcsname \@checkend {#1}\endgroup 
+                                                  \UseHook {env/#1/after}\if...
+l.23 \end{itemize}\end{footnotesize}
+                                  
 Things are pretty mixed up, but I think the worst is over.
 
 File: icon/doi.jpg Graphic file (type jpg)
 <use icon/doi.jpg>
-Package luatex.def Info: icon/doi.jpg  used on input line 25.
+Package luatex.def Info: icon/doi.jpg  used on input line 27.
 (luatex.def)             Requested size: 7.21443pt x 7.21443pt.
 File: icon/scholar.jpg Graphic file (type jpg)
 <use icon/scholar.jpg>
-Package luatex.def Info: icon/scholar.jpg  used on input line 26.
+Package luatex.def Info: icon/scholar.jpg  used on input line 28.
 (luatex.def)             Requested size: 7.22537pt x 7.22025pt.
 File: icon/wp.jpg Graphic file (type jpg)
 <use icon/wp.jpg>
-Package luatex.def Info: icon/wp.jpg  used on input line 26.
+Package luatex.def Info: icon/wp.jpg  used on input line 28.
 (luatex.def)             Requested size: 7.22646pt x 7.22646pt.
-<icon/confidencial.jpg, id=166, 150.5625pt x 150.5625pt>
-File: icon/confidencial.jpg Graphic file (type jpg)
-<use icon/confidencial.jpg>
-Package luatex.def Info: icon/confidencial.jpg  used on input line 28.
-(luatex.def)             Requested size: 6.50392pt x 6.50392pt.
-<icon/vanguardia.jpg, id=168, 150.5625pt x 150.5625pt>
-File: icon/vanguardia.jpg Graphic file (type jpg)
-<use icon/vanguardia.jpg>
-Package luatex.def Info: icon/vanguardia.jpg  used on input line 29.
-(luatex.def)             Requested size: 6.50392pt x 6.50392pt.
-<icon/periodicocanarias.jpg, id=170, 150.5625pt x 150.5625pt>
-File: icon/periodicocanarias.jpg Graphic file (type jpg)
-<use icon/periodicocanarias.jpg>
-Package luatex.def Info: icon/periodicocanarias.jpg  used on input line 30.
-(luatex.def)             Requested size: 6.50392pt x 6.50392pt.
-<icon/lainformacion.jpg, id=172, 150.5625pt x 150.5625pt>
-File: icon/lainformacion.jpg Graphic file (type jpg)
-<use icon/lainformacion.jpg>
-Package luatex.def Info: icon/lainformacion.jpg  used on input line 31.
-(luatex.def)             Requested size: 6.50392pt x 6.50392pt.
-<icon/youtube.png, id=176, 513.92pt x 513.92pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--34
+
+ []
+
+
+
+[1
+
+{C:/Users/dario/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}<./icon/bluesky
+-seeklogo.png><./icon/scholar.jpg><./icon/orcid.jpg><./icon/ideas.jpg><./icon/we
+bofscience.jpg><./icon/ssrn.jpg
+warning  (readjpg): Bad Exif resolution 0dpi x 0dpi (zero or negative value of a
+ signed integer)
+><./icon/bde.jpg><./avatar.png><./icon/ubse.jpg><./icon/ieb.jpg><./icon/cunef.jp
+g
+warning  (readjpg): Bad Exif resolution 0dpi x 0dpi (zero or negative value of a
+ signed integer)
+><./icon/unima.jpg><./icon/uam.jpg><./icon/doi.jpg><./icon/wp.jpg>]
+<icon/youtube.png, id=156, 513.92pt x 513.92pt>
 File: icon/youtube.png Graphic file (type png)
 <use icon/youtube.png>
-Package luatex.def Info: icon/youtube.png  used on input line 39.
+Package luatex.def Info: icon/youtube.png  used on input line 41.
 (luatex.def)             Requested size: 7.22227pt x 7.22227pt.
-<icon/elpais.jpg, id=181, 150.5625pt x 150.5625pt>
-File: icon/elpais.jpg Graphic file (type jpg)
-<use icon/elpais.jpg>
-Package luatex.def Info: icon/elpais.jpg  used on input line 40.
-(luatex.def)             Requested size: 6.50392pt x 6.50392pt.
-File: icon/confidencial.jpg Graphic file (type jpg)
-<use icon/confidencial.jpg>
-Package luatex.def Info: icon/confidencial.jpg  used on input line 41.
-(luatex.def)             Requested size: 6.50392pt x 6.50392pt.
-<icon/elmundo.jpg, id=184, 410.53375pt x 410.53375pt>
-File: icon/elmundo.jpg Graphic file (type jpg)
-<use icon/elmundo.jpg>
-Package luatex.def Info: icon/elmundo.jpg  used on input line 42.
-(luatex.def)             Requested size: 6.50226pt x 6.50226pt.
-<icon/eldiario.png, id=186, 209.78375pt x 209.78375pt>
-File: icon/eldiario.png Graphic file (type png)
-<use icon/eldiario.png>
-Package luatex.def Info: icon/eldiario.png  used on input line 43.
-(luatex.def)             Requested size: 6.5013pt x 6.5013pt.
-<icon/abc.png, id=188, 481.8pt x 481.8pt>
-File: icon/abc.png Graphic file (type png)
-<use icon/abc.png>
-Package luatex.def Info: icon/abc.png  used on input line 44.
-(luatex.def)             Requested size: 6.49887pt x 6.49887pt.
-<icon/ondacero.jpg, id=190, 185.69376pt x 185.69376pt>
-File: icon/ondacero.jpg Graphic file (type jpg)
-<use icon/ondacero.jpg>
-Package luatex.def Info: icon/ondacero.jpg  used on input line 45.
-(luatex.def)             Requested size: 6.50278pt x 6.50278pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--48
+
+ []
+
 File: icon/scholar.jpg Graphic file (type jpg)
 <use icon/scholar.jpg>
-Package luatex.def Info: icon/scholar.jpg  used on input line 50.
+Package luatex.def Info: icon/scholar.jpg  used on input line 52.
 (luatex.def)             Requested size: 7.22537pt x 7.22025pt.
-<icon/esp.jpg, id=197, 108.405pt x 107.65219pt>
+<icon/esp.jpg, id=166, 108.405pt x 107.65219pt>
 File: icon/esp.jpg Graphic file (type jpg)
 <use icon/esp.jpg>
-Package luatex.def Info: icon/esp.jpg  used on input line 50.
+Package luatex.def Info: icon/esp.jpg  used on input line 52.
 (luatex.def)             Requested size: 7.22687pt x 7.22595pt.
 File: icon/scholar.jpg Graphic file (type jpg)
 <use icon/scholar.jpg>
-Package luatex.def Info: icon/scholar.jpg  used on input line 54.
+Package luatex.def Info: icon/scholar.jpg  used on input line 56.
 (luatex.def)             Requested size: 7.22537pt x 7.22025pt.
 File: icon/esp.jpg Graphic file (type jpg)
 <use icon/esp.jpg>
-Package luatex.def Info: icon/esp.jpg  used on input line 54.
+Package luatex.def Info: icon/esp.jpg  used on input line 56.
 (luatex.def)             Requested size: 7.22687pt x 7.22595pt.
-File: icon/elpais.jpg Graphic file (type jpg)
-<use icon/elpais.jpg>
-Package luatex.def Info: icon/elpais.jpg  used on input line 55.
-(luatex.def)             Requested size: 6.50392pt x 6.50392pt.
-File: icon/vanguardia.jpg Graphic file (type jpg)
-<use icon/vanguardia.jpg>
-Package luatex.def Info: icon/vanguardia.jpg  used on input line 56.
-(luatex.def)             Requested size: 6.50392pt x 6.50392pt.
-<icon/ser.jpg, id=209, 150.5625pt x 150.5625pt>
-File: icon/ser.jpg Graphic file (type jpg)
-<use icon/ser.jpg>
-Package luatex.def Info: icon/ser.jpg  used on input line 57.
-(luatex.def)             Requested size: 6.50392pt x 6.50392pt.
-<icon/correo.jpg, id=211, 150.5625pt x 150.5625pt>
-File: icon/correo.jpg Graphic file (type jpg)
-<use icon/correo.jpg>
-Package luatex.def Info: icon/correo.jpg  used on input line 58.
-(luatex.def)             Requested size: 6.50392pt x 6.50392pt.
-<icon/ep.jpg, id=213, 150.5625pt x 150.5625pt>
-File: icon/ep.jpg Graphic file (type jpg)
-<use icon/ep.jpg>
-Package luatex.def Info: icon/ep.jpg  used on input line 59.
-(luatex.def)             Requested size: 6.50392pt x 6.50392pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--62
+
+ []
+
 ) (./section_academic_employment.tex
 File: icon/ubse.jpg Graphic file (type jpg)
 <use icon/ubse.jpg>
@@ -1495,52 +1438,66 @@ Package luatex.def Info: icon/ubse.jpg  used on input line 18.
 Overfull \vbox (8.50525pt too high) detected at line 18
  []
 
-<icon/airef.jpg, id=217, 101.78873pt x 101.78873pt>
+<icon/ifs.png, id=178, 209.78375pt x 209.78375pt>
+File: icon/ifs.png Graphic file (type png)
+<use icon/ifs.png>
+Package luatex.def Info: icon/ifs.png  used on input line 25.
+(luatex.def)             Requested size: 28.90536pt x 28.90536pt.
+
+Overfull \vbox (8.5054pt too high) detected at line 25
+ []
+
+<icon/airef.jpg, id=184, 101.78873pt x 101.78873pt>
 File: icon/airef.jpg Graphic file (type jpg)
 <use icon/airef.jpg>
-Package luatex.def Info: icon/airef.jpg  used on input line 25.
+Package luatex.def Info: icon/airef.jpg  used on input line 32.
 (luatex.def)             Requested size: 28.90756pt x 28.90756pt.
 
-Overfull \vbox (8.5076pt too high) detected at line 25
+Overfull \vbox (8.5076pt too high) detected at line 32
  []
 
 File: icon/cunef.jpg Graphic file (type jpg)
 <use icon/cunef.jpg>
-Package luatex.def Info: icon/cunef.jpg  used on input line 32.
-(luatex.def)             Requested size: 28.90582pt x 28.90582pt.
-
-Overfull \vbox (8.50586pt too high) detected at line 32
- []
-
-File: icon/bdec.jpg Graphic file (type jpg)
-<use icon/bdec.jpg>
-Package luatex.def Info: icon/bdec.jpg  used on input line 39.
+Package luatex.def Info: icon/cunef.jpg  used on input line 39.
 (luatex.def)             Requested size: 28.90582pt x 28.90582pt.
 
 Overfull \vbox (8.50586pt too high) detected at line 39
  []
 
-<icon/nera.jpg, id=224, 150.5625pt x 150.5625pt>
-File: icon/nera.jpg Graphic file (type jpg)
-<use icon/nera.jpg>
-Package luatex.def Info: icon/nera.jpg  used on input line 46.
+
+warning  (file icon/bdec.jpg) (readjpg): Bad Exif resolution 0dpi x 0dpi (zero o
+r negative value of a signed integer)
+<icon/bdec.jpg, id=190, 150.5625pt x 150.5625pt>
+File: icon/bdec.jpg Graphic file (type jpg)
+<use icon/bdec.jpg>
+Package luatex.def Info: icon/bdec.jpg  used on input line 46.
 (luatex.def)             Requested size: 28.90582pt x 28.90582pt.
 
 Overfull \vbox (8.50586pt too high) detected at line 46
  []
 
+<icon/nera.jpg, id=192, 150.5625pt x 150.5625pt>
+File: icon/nera.jpg Graphic file (type jpg)
+<use icon/nera.jpg>
+Package luatex.def Info: icon/nera.jpg  used on input line 53.
+(luatex.def)             Requested size: 28.90582pt x 28.90582pt.
 
-Overfull \hbox (4.48311pt too wide) in alignment at lines 14--50
+Overfull \vbox (8.50586pt too high) detected at line 53
+ []
+
+
+Overfull \hbox (4.48311pt too wide) in alignment at lines 14--57
  [][] 
  []
 
-) (./section_seminars.tex [2<./icon/doi.jpg><./icon/wp.jpg><./icon/esp2050.jpg><
-./icon/confidencial.jpg><./icon/vanguardia.jpg><./icon/periodicocanarias.jpg><./
-icon/lainformacion.jpg><./icon/youtube.png><./icon/elpais.jpg><./icon/elmundo.jp
-g><./icon/eldiario.png><./icon/abc.png><./icon/ondacero.jpg><./icon/esp.jpg><./i
-con/ser.jpg><./icon/correo.jpg><./icon/ep.jpg><./icon/airef.jpg><./icon/nera.jpg
->]) (./section_teaching.tex
-<icon/ub.png, id=264, 220.825pt x 220.825pt>
+) (./section_seminars.tex
+
+[2<./icon/youtube.png><./icon/esp.jpg><./icon/ifs.png><./icon/airef.jpg><./icon/
+bdec.jpg
+warning  (readjpg): Bad Exif resolution 0dpi x 0dpi (zero or negative value of a
+ signed integer)
+><./icon/nera.jpg>]) (./section_teaching.tex
+<icon/ub.png, id=206, 220.825pt x 220.825pt>
 File: icon/ub.png Graphic file (type png)
 <use icon/ub.png>
 Package luatex.def Info: icon/ub.png  used on input line 17.
@@ -1558,11 +1515,13 @@ File: icon/doi.jpg Graphic file (type jpg)
 <use icon/doi.jpg>
 Package luatex.def Info: icon/doi.jpg  used on input line 14.
 (luatex.def)             Requested size: 5.0501pt x 5.0501pt.
-) (./section_awards.tex
+)
+(./section_awards.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 14.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 14.
+
 
 ! Package array Error:  Illegal pream-token (.80\textwidth ): `c' used.
 
@@ -1576,37 +1535,37 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 ) (./section_computer.tex
-<icon/stata.jpg, id=293, 149.05687pt x 149.05687pt>
+<icon/stata.jpg, id=238, 149.05687pt x 149.05687pt>
 File: icon/stata.jpg Graphic file (type jpg)
 <use icon/stata.jpg>
 Package luatex.def Info: icon/stata.jpg  used on input line 15.
 (luatex.def)             Requested size: 10.83989pt x 10.83989pt.
-<icon/matlab.jpg, id=294, 213.79875pt x 213.79875pt>
+<icon/matlab.jpg, id=239, 213.79875pt x 213.79875pt>
 File: icon/matlab.jpg Graphic file (type jpg)
 <use icon/matlab.jpg>
 Package luatex.def Info: icon/matlab.jpg  used on input line 15.
 (luatex.def)             Requested size: 10.83736pt x 10.83736pt.
-<icon/r.jpg, id=295, 193.47281pt x 191.21437pt>
+<icon/r.jpg, id=240, 193.47281pt x 191.21437pt>
 File: icon/r.jpg Graphic file (type jpg)
 <use icon/r.jpg>
 Package luatex.def Info: icon/r.jpg  used on input line 16.
 (luatex.def)             Requested size: 10.83734pt x 10.83922pt.
-<icon/python.jpg, id=296, 59.9841pt x 58.7796pt>
+<icon/python.jpg, id=241, 59.9841pt x 58.7796pt>
 File: icon/python.jpg Graphic file (type jpg)
 <use icon/python.jpg>
 Package luatex.def Info: icon/python.jpg  used on input line 16.
 (luatex.def)             Requested size: 10.83968pt x 10.83997pt.
-<icon/julia.jpg, id=297, 281.05pt x 281.05pt>
+<icon/julia.jpg, id=242, 281.05pt x 281.05pt>
 File: icon/julia.jpg Graphic file (type jpg)
 <use icon/julia.jpg>
 Package luatex.def Info: icon/julia.jpg  used on input line 17.
 (luatex.def)             Requested size: 10.83696pt x 10.83696pt.
-<icon/fortran.jpg, id=298, 1204.5pt x 1204.5pt>
+<icon/fortran.jpg, id=243, 1204.5pt x 1204.5pt>
 File: icon/fortran.jpg Graphic file (type jpg)
 <use icon/fortran.jpg>
 Package luatex.def Info: icon/fortran.jpg  used on input line 17.
 (luatex.def)             Requested size: 10.82532pt x 10.82532pt.
-<icon/euromod.jpg, id=299, 225.84375pt x 225.84375pt>
+<icon/euromod.jpg, id=244, 225.84375pt x 225.84375pt>
 File: icon/euromod.jpg Graphic file (type jpg)
 <use icon/euromod.jpg>
 Package luatex.def Info: icon/euromod.jpg  used on input line 18.
@@ -1614,12 +1573,12 @@ Package luatex.def Info: icon/euromod.jpg  used on input line 18.
 
 warning  (file icon/github.jpg) (readjpg): Exif resolution 105dpi x 105dpi diffe
 rs from the input resolution 96dpi x 96dpi
-<icon/github.jpg, id=300, 352.40228pt x 352.40228pt>
+<icon/github.jpg, id=245, 352.40228pt x 352.40228pt>
 File: icon/github.jpg Graphic file (type jpg)
 <use icon/github.jpg>
 Package luatex.def Info: icon/github.jpg  used on input line 18.
 (luatex.def)             Requested size: 10.83508pt x 10.83508pt.
-<icon/htmlcss.png, id=301, 385.44pt x 385.44pt>
+<icon/htmlcss.png, id=246, 385.44pt x 385.44pt>
 File: icon/htmlcss.png Graphic file (type png)
 <use icon/htmlcss.png>
 Package luatex.def Info: icon/htmlcss.png  used on input line 19.
@@ -1627,152 +1586,23 @@ Package luatex.def Info: icon/htmlcss.png  used on input line 19.
 
 warning  (file icon/vscode.jpg) (readjpg): Bad Exif resolution 0dpi x 0dpi (zero
  or negative value of a signed integer)
-<icon/vscode.jpg, id=302, 308.65312pt x 308.65312pt>
+<icon/vscode.jpg, id=247, 308.65312pt x 308.65312pt>
 File: icon/vscode.jpg Graphic file (type jpg)
 <use icon/vscode.jpg>
 Package luatex.def Info: icon/vscode.jpg  used on input line 19.
 (luatex.def)             Requested size: 10.83693pt x 10.83693pt.
-<icon/tex.jpg, id=303, 686.565pt x 704.6325pt>
+<icon/tex.jpg, id=248, 686.565pt x 704.6325pt>
 File: icon/tex.jpg Graphic file (type jpg)
 <use icon/tex.jpg>
 Package luatex.def Info: icon/tex.jpg  used on input line 20.
 (luatex.def)             Requested size: 10.8323pt x 10.83781pt.
-<icon/powerbi.png, id=304, 48.18pt x 48.18pt>
+<icon/powerbi.png, id=249, 48.18pt x 48.18pt>
 File: icon/powerbi.png Graphic file (type png)
 <use icon/powerbi.png>
 Package luatex.def Info: icon/powerbi.png  used on input line 20.
 (luatex.def)             Requested size: 10.84001pt x 10.84001pt.
-) (./section_languages.tex) (./section_dissemination.tex
-
-LaTeX Font Warning: Font shape `TU/FontAwesome(0)/b/n' undefined
-(Font)              using `TU/FontAwesome(0)/m/n' instead on input line 14.
-
-<icon/eso.jpg, id=305, 150.5625pt x 150.5625pt>
-File: icon/eso.jpg Graphic file (type jpg)
-<use icon/eso.jpg>
-Package luatex.def Info: icon/eso.jpg  used on input line 17.
-(luatex.def)             Requested size: 6.50392pt x 6.50392pt.
-<icon/cyltv.jpg, id=309, 150.5625pt x 150.5625pt>
-File: icon/cyltv.jpg Graphic file (type jpg)
-<use icon/cyltv.jpg>
-Package luatex.def Info: icon/cyltv.jpg  used on input line 26.
-(luatex.def)             Requested size: 8.67036pt x 8.67036pt.
-! Undefined control sequence.
-l.32 	\noident
-             \footnotesize{\cvtag{\link{https://youtu.be/u0DKVHYeNLw}{\faVid...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-[3<./icon/ub.png><./icon/stata.jpg><./icon/matlab.jpg><./icon/r.jpg><./icon/pyth
-on.jpg><./icon/julia.jpg><./icon/fortran.jpg><./icon/euromod.jpg><./icon/github.
-jpg
-warning  (readjpg): Exif resolution 105dpi x 105dpi differs from the input resol
-ution 96dpi x 96dpi
-><./icon/htmlcss.png><./icon/vscode.jpg
-warning  (readjpg): Bad Exif resolution 0dpi x 0dpi (zero or negative value of a
- signed integer)
-><./icon/tex.jpg><./icon/powerbi.png><./icon/eso.jpg><./icon/cyltv.jpg>]
-<icon/cope.jpg, id=331, 421.575pt x 421.575pt>
-File: icon/cope.jpg Graphic file (type jpg)
-<use icon/cope.jpg>
-Package luatex.def Info: icon/cope.jpg  used on input line 43.
-(luatex.def)             Requested size: 8.67128pt x 8.67128pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 43--49
-
- []
-
-File: icon/ondacero.jpg Graphic file (type jpg)
-<use icon/ondacero.jpg>
-Package luatex.def Info: icon/ondacero.jpg  used on input line 50.
-(luatex.def)             Requested size: 8.67036pt x 8.67036pt.
-! Undefined control sequence.
-<recently read> \noident 
-         
-l.51 	\noident
-             \footnotesize{\cvtag{\link{https://www.ondacero.es/emisoras/cas...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 50--52
-
- []
-
-<icon/rne.jpg, id=337, 177.66376pt x 177.66376pt>
-File: icon/rne.jpg Graphic file (type jpg)
-<use icon/rne.jpg>
-Package luatex.def Info: icon/rne.jpg  used on input line 54.
-(luatex.def)             Requested size: 8.66954pt x 8.66954pt.
-! Undefined control sequence.
-<recently read> \noident 
-         
-l.55 	\noident
-             \footnotesize{\cvtag{\link{https://www.rtve.es/noticias/2021042...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 54--56
-
- []
-
-<icon/nordesteradio.jpg, id=339, 134.5025pt x 134.5025pt>
-File: icon/nordesteradio.jpg Graphic file (type jpg)
-<use icon/nordesteradio.jpg>
-Package luatex.def Info: icon/nordesteradio.jpg  used on input line 57.
-(luatex.def)             Requested size: 8.67113pt x 8.67113pt.
-! Undefined control sequence.
-<recently read> \noident 
-         
-l.71 	\noident
-             \footnotesize{\cvtag{\link{https://drive.google.com/file/d/1Ric...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-File: icon/elmundo.jpg Graphic file (type jpg)
-<use icon/elmundo.jpg>
-Package luatex.def Info: icon/elmundo.jpg  used on input line 71.
-(luatex.def)             Requested size: 5.77562pt x 5.77562pt.
-<icon/nortecastilla.jpg, id=344, 160.6pt x 160.6pt>
-File: icon/nortecastilla.jpg Graphic file (type jpg)
-<use icon/nortecastilla.jpg>
-Package luatex.def Info: icon/nortecastilla.jpg  used on input line 72.
-(luatex.def)             Requested size: 5.78085pt x 5.78085pt.
-<icon/eladelantado.jpg, id=346, 360.34625pt x 360.34625pt>
-File: icon/eladelantado.jpg Graphic file (type jpg)
-<use icon/eladelantado.jpg>
-Package luatex.def Info: icon/eladelantado.jpg  used on input line 73.
-(luatex.def)             Requested size: 5.77884pt x 5.77884pt.
-<icon/eldiasegovia.jpg, id=348, 225.84375pt x 225.84375pt>
-File: icon/eldiasegovia.jpg Graphic file (type jpg)
-<use icon/eldiasegovia.jpg>
-Package luatex.def Info: icon/eldiasegovia.jpg  used on input line 74.
-(luatex.def)             Requested size: 5.7791pt x 5.7791pt.
-<icon/elespanol.jpg, id=350, 176.66pt x 176.66pt>
-File: icon/elespanol.jpg Graphic file (type jpg)
-<use icon/elespanol.jpg>
-Package luatex.def Info: icon/elespanol.jpg  used on input line 75.
-(luatex.def)             Requested size: 5.77939pt x 5.77939pt.
-<icon/cuellar7.jpg, id=352, 103.38625pt x 103.38625pt>
-File: icon/cuellar7.jpg Graphic file (type jpg)
-<use icon/cuellar7.jpg>
-Package luatex.def Info: icon/cuellar7.jpg  used on input line 76.
-(luatex.def)             Requested size: 5.7817pt x 5.7817pt.
-) (./section_other_professional.tex
-<icon/huercasa.jpg, id=354, 202.7575pt x 202.7575pt>
+) (./section_languages.tex) (./section_other_professional.tex
+<icon/huercasa.jpg, id=251, 202.7575pt x 202.7575pt>
 File: icon/huercasa.jpg Graphic file (type jpg)
 <use icon/huercasa.jpg>
 Package luatex.def Info: icon/huercasa.jpg  used on input line 18.
@@ -1781,7 +1611,7 @@ Package luatex.def Info: icon/huercasa.jpg  used on input line 18.
 Overfull \vbox (12.75566pt too high) detected at line 18
  []
 
-<icon/johndeere.jpg, id=356, 93.34875pt x 93.34875pt>
+<icon/johndeere.jpg, id=253, 93.34875pt x 93.34875pt>
 File: icon/johndeere.jpg Graphic file (type jpg)
 <use icon/johndeere.jpg>
 Package luatex.def Info: icon/johndeere.jpg  used on input line 25.
@@ -1790,7 +1620,7 @@ Package luatex.def Info: icon/johndeere.jpg  used on input line 25.
 Overfull \vbox (12.75652pt too high) detected at line 25
  []
 
-<icon/ms.jpg, id=358, 225.84375pt x 225.84375pt>
+<icon/ms.jpg, id=255, 225.84375pt x 225.84375pt>
 File: icon/ms.jpg Graphic file (type jpg)
 <use icon/ms.jpg>
 Package luatex.def Info: icon/ms.jpg  used on input line 32.
@@ -1804,44 +1634,45 @@ Overfull \hbox (4.48311pt too wide) in alignment at lines 14--37
  [][] 
  []
 
-) [4<./icon/cope.jpg><./icon/rne.jpg><./icon/nordesteradio.jpg><./icon/nortecast
-illa.jpg><./icon/eladelantado.jpg><./icon/eldiasegovia.jpg><./icon/elespanol.jpg
-><./icon/cuellar7.jpg><./icon/huercasa.jpg><./icon/johndeere.jpg><./icon/ms.jpg>
-] (./awesome-cv.aux)
+[3<./icon/ub.png><./icon/stata.jpg><./icon/matlab.jpg><./icon/r.jpg><./icon/pyth
+on.jpg><./icon/julia.jpg><./icon/fortran.jpg><./icon/euromod.jpg><./icon/github.
+jpg
+warning  (readjpg): Exif resolution 105dpi x 105dpi differs from the input resol
+ution 96dpi x 96dpi
+><./icon/htmlcss.png><./icon/vscode.jpg
+warning  (readjpg): Bad Exif resolution 0dpi x 0dpi (zero or negative value of a
+ signed integer)
+><./icon/tex.jpg><./icon/powerbi.png><./icon/huercasa.jpg><./icon/johndeere.jpg>
+])
 
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-
-Package rerunfilecheck Warning: File `awesome-cv.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `awesome-cv.out':
-(rerunfilecheck)             Before: FBA34F7418431D49D6A11ECCB6B343A2;2175
-(rerunfilecheck)             After:  590A40B047DDB711A0A6CE87704A93BA;2017.
+[4<./icon/ms.jpg>] (./awesome-cv.aux)
+ ***********
+LaTeX2e <2024-11-01> patch level 1
+L3 programming layer <2024-11-02>
+ ***********
+Package rerunfilecheck Info: File `awesome-cv.out' has not changed.
+(rerunfilecheck)             Checksum: 26809EA9F96ED05F5929B703FA3511C4;1699.
 )
 
 Here is how much of LuaTeX's memory you used:
- 31406 strings out of 477794
- 195459,1144653 words of node,token memory allocated
- 1497 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 43 glue, 3 kern, 1 penalty, 2 glyph, 314 attribute,
- 60 glue_spec, 46 attribute_list, 2 write, 3 pdf_action nodes
-   avail lists: 1:3,2:13532,3:1754,4:798,5:2017,6:181,7:12215,8:183,9:1718,10:19
-,11:1040
- 50460 multiletter control sequences out of 65536+600000
- 65 fonts using 9409423 bytes
- 115i,12n,111p,1198b,979s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 31029 strings out of 475630
+ 195457,1373583 words of node,token memory allocated
+ 1402 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 37 glue, 3 kern, 1 penalty, 2 glyph, 286 attribute,
+ 61 glue_spec, 42 attribute_list, 2 write, 4 pdf_action nodes
+   avail lists: 1:4,2:9051,3:949,4:848,5:2088,6:179,7:13020,8:3,9:1881,10:20,11:
+1078
+ 52974 multiletter control sequences out of 65536+600000
+ 64 fonts using 9098055 bytes
+ 117i,12n,119p,1198b,985s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/users/dario/appdata/local/programs/miktex/fonts/opentype/public/lm/lmmono8-r
+egular.otf><./fonts/SourceSansPro-LightIt.otf><./fonts/SourceSansPro-Regular.otf
+><C:/Users/dario/AppData/Local/Programs/MiKTeX/fonts/opentype/public/fontawesome
+/fontawesome.otf><./fonts/SourceSansPro-Semibold.otf><./fonts/SourceSansPro-Ligh
+t.otf>
+Output written on awesome-cv.pdf (4 pages, 1517079 bytes).
 
-warning  (pdf backend): unreferenced destination with name 'section.15'
-<//?/c:/users/dario/appdata/local/programs/miktex/fonts/opentype/public/lm/lmmon
-o8-regular.otf><./fonts/SourceSansPro-LightIt.otf><./fonts/SourceSansPro-Regular
-.otf><C:/Users/dario/AppData/Local/Programs/MiKTeX/fonts/opentype/public/fontawe
-some/fontawesome.otf><./fonts/SourceSansPro-Semibold.otf><./fonts/SourceSansPro-
-Light.otf>
-Output written on awesome-cv.pdf (4 pages, 2159261 bytes).
-
-PDF statistics: 419 PDF objects out of 1000 (max. 8388607)
- 22 named destinations out of 1000 (max. 131072)
- 136 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 321 PDF objects out of 1000 (max. 8388607)
+ 20 named destinations out of 1000 (max. 131072)
+ 120 words of extra memory for PDF output out of 10000 (max. 100000000)
 

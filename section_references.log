@@ -1,53 +1,48 @@
-This is LuaHBTeX, Version 1.14.0 (MiKTeX 22.1) (format=lualatex 2022.2.14)  13 MAR 2023 11:41
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2024.12.27)  27 DEC 2024 12:37
  restricted system commands enabled.
 **section_references.tex
 (./section_references.tex
-LaTeX2e <2021-11-15> patch level 1
-Lua module: luaotfload 2021-05-21 3.18 Lua based OpenType font support
-Lua module: lualibs 2021-05-20 2.74 ConTeXt Lua standard libraries.
-Lua module: lualibs-extended 2021-05-20 2.74 ConTeXt Lua libraries -- extended c
-ollection.
+LaTeX2e <2024-11-01> patch level 1
+L3 programming layer <2024-11-02>
+Lua module: luaotfload 2024-02-14 v3.28 Lua based OpenType font support
+Lua module: lualibs 2023-07-13 v2.76 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2023-07-13 v2.76 ConTeXt Lua libraries -- extended 
+collection.
 luaotfload | conf : Root cache directory is "C:/Users/dario/AppData/Local/MiKTeX
 /luatex-cache/generic/names".
-luaotfload | init : Loading fontloader "fontloader-2021-05-20.lua" from kpse-res
+luaotfload | init : Loading fontloader "fontloader-2023-12-28.lua" from kpse-res
 olved path "C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/f
-ontloader-2021-05-20.lua".
+ontloader-2023-12-28.lua".
 Lua-only attribute luaotfload@noligature = 1
-Lua-only attribute luaotfload@syllabe = 2
-luaotfload | init : Context OpenType loader version 3.116
-Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
-Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
-Inserting `luaotfload.glyph_stream' at position 1 in `glyph_stream_provider'.
-Inserting `luaotfload.define_font' at position 1 in `define_font'.
-Lua-only attribute luaotfload_color_attribute = 3
+luaotfload | init : Context OpenType loader version 3.134
+Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' in `hpack_filter'.
+Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
+Inserting `luaotfload.define_font' in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 2
 luaotfload | conf : Root cache directory is "C:/Users/dario/AppData/Local/MiKTeX
 /luatex-cache/generic/names".
-Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_opentype_file'.
-Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_truetype_file'.
-Inserting `luaotfload.harf.finalize_vlist' at position 1 in `post_linebreak_filt
-er'.
-Inserting `luaotfload.harf.finalize_hlist' at position 2 in `hpack_filter'.
-Inserting `luaotfload.cleanup_files' at position 1 in `wrapup_run'.
-Inserting `luaotfload.harf.finalize_unicode' at position 1 in `finish_pdffile'.
-Inserting `luaotfload.glyphinfo' at position 1 in `glyph_info'.
-Lua-only attribute luaotfload.letterspace_done = 4
-Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
-font'.
-Inserting `luaotfload.aux.set_font_index' at position 2 in `luaotfload.patch_fon
-t'.
-Inserting `luaotfload.aux.patch_cambria_domh' at position 3 in `luaotfload.patch
-_font'.
-Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_fon
-t_unsafe'.
-Inserting `luaotfload.aux.set_capheight' at position 4 in `luaotfload.patch_font
-'.
-Inserting `luaotfload.aux.set_xheight' at position 5 in `luaotfload.patch_font'.
-Inserting `luaotfload.rewrite_fontname' at position 6 in `luaotfload.patch_font'
-. L3 programming layer <2022-02-05>
-Inserting `tracingstacklevels' at position 1 in `input_level_string'.
+Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
+Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
+Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
+Inserting `luaotfload.harf.glyphstream' in `glyph_stream_provider'.
+Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_hlist' in `hpack_filter'.
+Inserting `luaotfload.cleanup_files' in `wrapup_run'.
+Inserting `luaotfload.harf.finalize_unicode' in `finish_pdffile'.
+Inserting `luaotfload.glyphinfo' in `glyph_info'.
+Lua-only attribute luaotfload.letterspace_done = 3
+Inserting `luaotfload.aux.set_sscale_dimens' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_font_index' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.patch_cambria_domh' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.fixup_fontdata' in `luaotfload.patch_font_unsafe'.
+Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
+Inserting `tracingstacklevels' in `input_level_string'.
 ! Undefined control sequence.
-l.11 \sectionTitle
-                {References}{\faGroup \faFileTextO}
+l.9 \sectionTitle
+               {References}{\faGroup \faFileTextO}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -61,14 +56,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.11 \sectionTitle{R
-                  eferences}{\faGroup \faFileTextO}
+l.9 \sectionTitle{R
+                 eferences}{\faGroup \faFileTextO}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 ! Undefined control sequence.
-l.11 \sectionTitle{References}{\faGroup
-                                      \faFileTextO}
+l.9 \sectionTitle{References}{\faGroup
+                                     \faFileTextO}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -76,8 +71,8 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.11 \sectionTitle{References}{\faGroup \faFileTextO
-                                                  }
+l.9 \sectionTitle{References}{\faGroup \faFileTextO
+                                                 }
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -85,7 +80,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 11--12
+Overfull \hbox (20.0pt too wide) in paragraph at lines 9--10
 []References 
  []
 
@@ -96,20 +91,19 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 \begin{tabular}
-                  {>{\small}r >{\small}l >{\small}p{1cm} >{\small}r >{\small}l}
-
+l.13 \begin{tabular}
+                  {>{\small}r >{\small}l >{\small}p{0.7cm} >{\small}r >{\sma...
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 15.
+(Font)              <7> on input line 13.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 15.
+(Font)              <5> on input line 13.
 ! Undefined control sequence.
 <argument> >{\small 
-         }r >{\small }l >{\small }p{1cm} >{\small }r >{\small }l
-l.15 ...all}l >{\small}p{1cm} >{\small}r >{\small}l}
+         }r >{\small }l >{\small }p{0.7cm} >{\small }r >{\small }l
+l.13 ...l}l >{\small}p{0.7cm} >{\small}r >{\small}l}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -119,8 +113,8 @@ and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
 <argument> >{\small }r >{\small 
-                     }l >{\small }p{1cm} >{\small }r >{\small }l
-l.15 ...all}l >{\small}p{1cm} >{\small}r >{\small}l}
+                     }l >{\small }p{0.7cm} >{\small }r >{\small }l
+l.13 ...l}l >{\small}p{0.7cm} >{\small}r >{\small}l}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -130,8 +124,8 @@ and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
 <argument> >{\small }r >{\small }l >{\small 
-                                 }p{1cm} >{\small }r >{\small }l
-l.15 ...all}l >{\small}p{1cm} >{\small}r >{\small}l}
+                                 }p{0.7cm} >{\small }r >{\small }l
+l.13 ...l}l >{\small}p{0.7cm} >{\small}r >{\small}l}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -140,9 +134,9 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-<argument> >{\small }r >{\small }l >{\small }p{1cm} >{\small 
+<argument> ...all }r >{\small }l >{\small }p{0.7cm} >{\small 
                                                   }r >{\small }l
-l.15 ...all}l >{\small}p{1cm} >{\small}r >{\small}l}
+l.13 ...l}l >{\small}p{0.7cm} >{\small}r >{\small}l}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -151,9 +145,9 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-<argument> ...small }l >{\small }p{1cm} >{\small }r >{\small 
+<argument> ...all }l >{\small }p{0.7cm} >{\small }r >{\small 
                                                   }l
-l.15 ...all}l >{\small}p{1cm} >{\small}r >{\small}l}
+l.13 ...l}l >{\small}p{0.7cm} >{\small}r >{\small}l}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -168,7 +162,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 ...all}l >{\small}p{1cm} >{\small}r >{\small}l}
+l.13 ...l}l >{\small}p{0.7cm} >{\small}r >{\small}l}
                                                   
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -180,7 +174,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 ...all}l >{\small}p{1cm} >{\small}r >{\small}l}
+l.13 ...l}l >{\small}p{0.7cm} >{\small}r >{\small}l}
                                                   
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -192,7 +186,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 ...all}l >{\small}p{1cm} >{\small}r >{\small}l}
+l.13 ...l}l >{\small}p{0.7cm} >{\small}r >{\small}l}
                                                   
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -204,7 +198,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 ...all}l >{\small}p{1cm} >{\small}r >{\small}l}
+l.13 ...l}l >{\small}p{0.7cm} >{\small}r >{\small}l}
                                                   
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -216,7 +210,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 ...all}l >{\small}p{1cm} >{\small}r >{\small}l}
+l.13 ...l}l >{\small}p{0.7cm} >{\small}r >{\small}l}
                                                   
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -228,7 +222,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 ...all}l >{\small}p{1cm} >{\small}r >{\small}l}
+l.13 ...l}l >{\small}p{0.7cm} >{\small}r >{\small}l}
                                                   
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -240,7 +234,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 ...all}l >{\small}p{1cm} >{\small}r >{\small}l}
+l.13 ...l}l >{\small}p{0.7cm} >{\small}r >{\small}l}
                                                   
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -252,7 +246,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 ...all}l >{\small}p{1cm} >{\small}r >{\small}l}
+l.13 ...l}l >{\small}p{0.7cm} >{\small}r >{\small}l}
                                                   
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -264,7 +258,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 ...all}l >{\small}p{1cm} >{\small}r >{\small}l}
+l.13 ...l}l >{\small}p{0.7cm} >{\small}r >{\small}l}
                                                   
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -276,7 +270,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 ...all}l >{\small}p{1cm} >{\small}r >{\small}l}
+l.13 ...l}l >{\small}p{0.7cm} >{\small}r >{\small}l}
                                                   
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -284,7 +278,7 @@ If that doesn't work, type  X <return>  to quit.
 ! Undefined control sequence.
 \@sharp ->\link 
                 {http://www.foremny.eu/}{\textbf {Dirk Foremny}}, Universita...
-l.17 ...niversitat de Barcelona School of Economics}
+l.15 ...niversitat de Barcelona School of Economics}
                                                    & & \multicolumn{2}{l}{\l...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -293,11 +287,11 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 luaotfload | db : Font names database loaded from C:/Users/dario/AppData/Local/M
-iKTeX/luatex-cache/generic/names/luaotfload-names.luc
+iKTeX/luatex-cache/generic/names/luaotfload-names.luc.gz
 ! Undefined control sequence.
 \@sharp ->\link 
                 {https://malmunia.github.io/}{\textbf {Miguel Almunia}}, CUNEF
-l.17 ...ithub.io/}{\textbf{Miguel Almunia}},  CUNEF}
+l.15 ...ithub.io/}{\textbf{Miguel Almunia}},  CUNEF}
                                                    \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -306,7 +300,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.18 	\quad \includegraphics
+l.16 	\quad \includegraphics
                           [width=0.09in,height=0.09in]{icon/ubse.jpg} & \emp...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -315,7 +309,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.18 ... Supervisor}					&		& \quad \includegraphics
+l.16 ...e Professor}					&		& \quad \includegraphics
                                                   [width=0.09in,height=0.09i...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -324,7 +318,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.19 	\quad \faMapMarker
+l.17 	\quad \faMapMarker
                        & Barcelona (Spain) 						&	& \quad \faMapMarker & Ma...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -333,7 +327,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.19 ...rcelona (Spain) 						&	& \quad \faMapMarker
+l.17 ...rcelona (Spain) 						&	& \quad \faMapMarker
                                                    & Madrid (Spain)  \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -342,8 +336,8 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.20 	\quad \mailSymbol
-                       & \link{mailto:foremny@ub.edu}{foremny@ub.edu}	& & \q...
+l.18 	\quad \mailSymbol
+                       & \link{mailto:foremny@ub.edu}{foremny[at]ub.edu}	& &...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -351,8 +345,8 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.20 	\quad \mailSymbol  & \link
-                              {mailto:foremny@ub.edu}{foremny@ub.edu}	& & \q...
+l.18 	\quad \mailSymbol  & \link
+                              {mailto:foremny@ub.edu}{foremny[at]ub.edu}	& &...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -360,7 +354,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.20 ...b.edu}{foremny@ub.edu}	& & \quad \mailSymbol
+l.18 ...du}{foremny[at]ub.edu}	& & \quad \mailSymbol
                                                     & \link{mailto:miguel.al...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -369,7 +363,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.20 ...remny@ub.edu}	& & \quad \mailSymbol  & \link
+l.18 ...ny[at]ub.edu}	& & \quad \mailSymbol  & \link
                                                   {mailto:miguel.almunia@cun...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -377,99 +371,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-\@sharp ->\link 
-                {https://sites.google.com/site/olympiabover/}{\textbf {Olymp...
-l.22 ...}{\textbf{Olympia Bover}}, Banco de España}
-                                                   & & \multicolumn{2}{l}{\l...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-\@sharp ->\link 
-                {https://www.annebrockmeyer.com/}{\textbf {Anne Brockmeyer}}...
-l.22 ...yer}},  Institute for Fiscal Studies \& UCL}
-                                                   \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.23 	\quad \includegraphics
-                          [width=0.09in,height=0.09in]{icon/bdec.jpg} & \emp...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.23 ...nt Director}						&	& \quad \includegraphics
-                                                  [width=0.09in,height=0.09i...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.24 	\quad \faMapMarker
-                       & Madrid (Spain) 						&	& \quad \faMapMarker & Londo...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.24 ... Madrid (Spain) 						&	& \quad \faMapMarker
-                                                   & London (UK)  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.25 	\quad \mailSymbol
-                       & \link{mailto:bover@bde.es}{bover@bde.es}	& & \quad ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.25 	\quad \mailSymbol  & \link
-                              {mailto:bover@bde.es}{bover@bde.es}	& & \quad ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.25 ...@bde.es}{bover@bde.es}	& & \quad \mailSymbol
-                                                    & \link{mailto:brockmeye...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.25 ...bover@bde.es}	& & \quad \mailSymbol  & \link
-                                                  {mailto:brockmeyer.anne@gm...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+Overfull \hbox (286.66022pt too wide) in paragraph at lines 13--27
+[][] 
+ []
 
 )
 ! Emergency stop.
@@ -480,13 +385,12 @@ and I'll forget about whatever was undefined.
 
 
 Here is how much of LuaTeX's memory you used:
- 25 strings out of 477794
- 100000,383344 words of node,token memory allocated 9526 words of node memory still in use:
-   59 hlist, 1 vlist, 11 rule, 27 disc, 2 local_par, 1 dir, 2 math, 261 glue, 44
- kern, 1 penalty, 826 glyph, 116 attribute, 39 glue_spec, 116 attribute_list, 1 
-temp nodes
-   avail lists: 2:2,3:3,4:1,5:7,6:1,7:13,8:1,9:16
- 20851 multiletter control sequences out of 65536+600000
+ 25 strings out of 475630
+ 100000,552014 words of node,token memory allocated 4840 words of node memory still in use:
+   32 hlist, 1 vlist, 5 rule, 11 disc, 2 local_par, 1 dir, 2 math, 132 glue, 19 
+kern, 2 penalty, 401 glyph, 62 attribute, 40 glue_spec, 62 attribute_list nodes
+   avail lists: 2:4,3:2,4:2,5:7,6:1,7:10,8:1,9:15
+ 23031 multiletter control sequences out of 65536+600000
  26 fonts using 1476743 bytes
- 19i,7n,16p,295b,181s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 19i,7n,22p,283b,185s stack positions out of 10000i,1000n,20000p,200000b,200000s
 !  ==> Fatal error occurred, no output PDF file produced!

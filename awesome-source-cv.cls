@@ -151,6 +151,7 @@
 \newcommand{\weiboSymbol}{\faWeibo}
 \newcommand{\linkedinSymbol}{\faLinkedin}
 \newcommand{\twitterSymbol}{\faTwitter}
+\newcommand{\blueskySymbol}{\includegraphics[width=0.07in,height=0.07in]{icon/bluesky-seeklogo.png}}
 \newcommand{\mobileSymbol}{\faMobilePhone}
 \newcommand{\githubSymbol}{\faGithub}
 
@@ -222,7 +223,11 @@
 
 % Render author's twitter (optional)
 % Usage: \linkedin{<linked-in-nick>}
-\newcommand*{\twitter}[1]{\sociallink{\twitterSymbol}{https://twitter.com/#1}{@#1}}
+\newcommand*{\twitter}[1]{\sociallink{\twitterSymbol}{https://twitter.com/#1}{#1}}
+
+% Render author's bluesky (optional)
+% Usage: \linkedin{<linked-in-nick>}
+\newcommand*{\bluesky}[1]{\sociallink{\blueskySymbol}{https://bsky.app/profile/#1}{#1}}
 
 
 % Render author's viadeo(optional)
@@ -274,7 +279,7 @@
 			\begin{minipage}{\dimexpr\linewidth-\@photodiameter-2em}        	
 		}
 				\color{accentcolor}\user{\@firstname}{\@lastname}\color{black} \vspace*{0.3cm}\\				 	
-				\small{\@socialinfo}
+				\footnotesize{\@socialinfo}
 			\end{minipage}  
 		\ifdef{\@photodiameter}{
 			\begin{minipage}{\@photodiameter}
@@ -297,7 +302,7 @@
 				\user{\@firstname}{\@lastname} \vspace*{0.3cm}\\
 				\resumetitle{\@tagline}
 				\smallskip\\
-				\small{\@socialinfo}
+				\footnotesize{\@socialinfo}
 			\end{minipage}  	    
 		\ifdef{\@photodiameter}{
 			\begin{minipage}{\@photodiameter}

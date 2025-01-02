@@ -1,0 +1,1474 @@
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2024.12.27)  27 DEC 2024 12:55
+ restricted system commands enabled.
+**section_publications.tex
+(./section_publications.tex
+LaTeX2e <2024-11-01> patch level 1
+L3 programming layer <2024-11-02>
+Lua module: luaotfload 2024-02-14 v3.28 Lua based OpenType font support
+Lua module: lualibs 2023-07-13 v2.76 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2023-07-13 v2.76 ConTeXt Lua libraries -- extended 
+collection.
+luaotfload | conf : Root cache directory is "C:/Users/dario/AppData/Local/MiKTeX
+/luatex-cache/generic/names".
+luaotfload | init : Loading fontloader "fontloader-2023-12-28.lua" from kpse-res
+olved path "C:/Users/dario/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/f
+ontloader-2023-12-28.lua".
+Lua-only attribute luaotfload@noligature = 1
+luaotfload | init : Context OpenType loader version 3.134
+Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' in `hpack_filter'.
+Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
+Inserting `luaotfload.define_font' in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 2
+luaotfload | conf : Root cache directory is "C:/Users/dario/AppData/Local/MiKTeX
+/luatex-cache/generic/names".
+Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
+Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
+Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
+Inserting `luaotfload.harf.glyphstream' in `glyph_stream_provider'.
+Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_hlist' in `hpack_filter'.
+Inserting `luaotfload.cleanup_files' in `wrapup_run'.
+Inserting `luaotfload.harf.finalize_unicode' in `finish_pdffile'.
+Inserting `luaotfload.glyphinfo' in `glyph_info'.
+Lua-only attribute luaotfload.letterspace_done = 3
+Inserting `luaotfload.aux.set_sscale_dimens' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_font_index' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.patch_cambria_domh' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.fixup_fontdata' in `luaotfload.patch_font_unsafe'.
+Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
+Inserting `tracingstacklevels' in `input_level_string'.
+! Undefined control sequence.
+l.11 \sectionTitle
+                {Publications}{\faLeanpub}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 \sectionTitle{P
+                  ublications}{\faLeanpub}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.11 \sectionTitle{Publications}{\faLeanpub
+                                         }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 11--12
+[]Publications 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 \textbf{Peer-Refereed Publications}
+                                      
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+luaotfload | db : Font names database loaded from C:/Users/dario/AppData/Local/M
+iKTeX/luatex-cache/generic/names/luaotfload-names.luc.gz
+Overfull \hbox (46.65001pt too wide) in paragraph at lines 15--16
+[]\TU/lmr/bx/n/10 Peer-
+ []
+
+
+Overfull \hbox (44.35002pt too wide) in paragraph at lines 15--16
+\TU/lmr/bx/n/10 Refereed
+ []
+
+
+Overfull \hbox (24.47pt too wide) in paragraph at lines 15--16
+\TU/lmr/bx/n/10 Pub-
+ []
+
+
+Overfull \hbox (10.21pt too wide) in paragraph at lines 15--16
+\TU/lmr/bx/n/10 li-
+ []
+
+
+Overfull \hbox (14.53pt too wide) in paragraph at lines 15--16
+\TU/lmr/bx/n/10 ca-
+ []
+
+
+Overfull \hbox (24.34pt too wide) in paragraph at lines 15--16
+\TU/lmr/bx/n/10 tions 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 \begin{itemize}
+                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 17--17
+[] 
+ []
+
+! Undefined control sequence.
+l.18 	\item “\link
+                  {https://doi.org/10.1007/s13209-020-00227-z}{Are We Moving...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.19 ...he Spanish Economic Association}, vol. \link
+                                                  {https://link.springer.com...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.19 ...sues/12-2}{12(2)}, special issue on “\link
+                                                  {https://link.springer.com...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.19 ...ransition}}” (2021), \hspace{0.5 mm} \link
+                                                  {https://doi.org/10.1007/s...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.19 ...10.1007/s13209-020-00227-z}{\includegraphics
+                                                  [width=0.10in,height=0.10i...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.20 \indent [\link
+                 {https://scholar.google.com/scholar?hl=es&as_sdt=0\%2C5&q=A...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.20 ...nk{https://scholar.google.com/scholar?hl=es&
+                                                  as_sdt=0\%2C5&q=Are+We+Mov...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing $ inserted.
+<inserted text> 
+$
+l.20 ...https://scholar.google.com/scholar?hl=es&as_
+                                                  sdt=0\%2C5&q=Are+We+Moving...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 20.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 20.
+! Misplaced alignment tab character &.
+l.20 ...olar.google.com/scholar?hl=es&as_sdt=0\%2C5&
+                                                  q=Are+We+Moving+Toward+An+...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.20 ...ion+of+CO2+Emissions+for+Spain+and+the+EU28&
+                                                  btnG=}{\includegraphics[wi...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Extra }, or forgotten $.
+l.20 ...+CO2+Emissions+for+Spain+and+the+EU28&btnG=}
+                                                  {\includegraphics[width=0....
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Undefined control sequence.
+l.20 ...r+Spain+and+the+EU28&btnG=}{\includegraphics
+                                                  [width=0.10in,height=0.10i...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.20 ...jpg} \hspace{0.5 mm} Google Scholar}] [\link
+                                                  {https://repositorio.bde.e...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.20 .../123456789/14611?locale=en}{\includegraphics
+                                                  [width=0.10in,height=0.10i...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.20 ...aper} \hspace{0.5 mm} n. 2104 (2021)] [\link
+                                                  {https://serranopuente.eu/...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.20 ...Dario_IO_LMDI_Energy_CO2_R1.pdf}{\faFilePdfO
+                                                   \hspace{1 mm} Manuscript}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.20 ...faFilePdfO \hspace{1 mm} Manuscript}] [\link
+                                                  {https://twitter.com/dario...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.20 ...nopue/status/1349449144641925121}{\faTwitter
+                                                   \hspace{1 mm} Summary-Thr...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+$
+l.22 
+   
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+}
+l.22 
+   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (15.98pt too wide) in paragraph at lines 18--22
+\TU/lmr/m/it/10 SE-
+ []
+
+
+Overfull \hbox (22.01999pt too wide) in paragraph at lines 18--22
+\TU/lmr/m/it/10 RIEs
+ []
+
+
+Overfull \hbox (3.58pt too wide) in paragraph at lines 18--22
+\TU/lmr/m/it/10 -
+ []
+
+
+Overfull \hbox (33.23999pt too wide) in paragraph at lines 18--22
+\TU/lmr/m/it/10 Jorunal
+ []
+
+
+Overfull \hbox (8.18001pt too wide) in paragraph at lines 18--22
+\TU/lmr/m/it/10 of
+ []
+
+
+Overfull \hbox (13.03001pt too wide) in paragraph at lines 18--22
+\TU/lmr/m/it/10 the
+ []
+
+
+Overfull \hbox (24.53pt too wide) in paragraph at lines 18--22
+\TU/lmr/m/it/10 Span-
+ []
+
+
+Overfull \hbox (12.27pt too wide) in paragraph at lines 18--22
+\TU/lmr/m/it/10 ish
+ []
+
+
+Overfull \hbox (19.56001pt too wide) in paragraph at lines 18--22
+\TU/lmr/m/it/10 Eco-
+ []
+
+
+Overfull \hbox (26.58pt too wide) in paragraph at lines 18--22
+\TU/lmr/m/it/10 nomic
+ []
+
+
+Overfull \hbox (14.59pt too wide) in paragraph at lines 18--22
+\TU/lmr/m/it/10 As-
+ []
+
+
+Overfull \hbox (12.78pt too wide) in paragraph at lines 18--22
+\TU/lmr/m/it/10 so-
+ []
+
+
+Overfull \hbox (11.25002pt too wide) in paragraph at lines 18--22
+\TU/lmr/m/it/10 ci-
+ []
+
+
+Overfull \hbox (8.69pt too wide) in paragraph at lines 18--22
+\TU/lmr/m/it/10 a-
+ []
+
+
+Overfull \hbox (17.12001pt too wide) in paragraph at lines 18--22
+\TU/lmr/m/it/10 tion\nullfont ,
+ []
+
+
+Overfull \hbox (16.87001pt too wide) in paragraph at lines 18--22
+4\TU/lmr/m/it/10 The
+ []
+
+
+Overfull \hbox (19.56001pt too wide) in paragraph at lines 18--22
+\TU/lmr/m/it/10 Eco-
+ []
+
+
+Overfull \hbox (30.67pt too wide) in paragraph at lines 18--22
+\TU/lmr/m/it/10 nomics
+ []
+
+
+Overfull \hbox (8.18001pt too wide) in paragraph at lines 18--22
+\TU/lmr/m/it/10 of
+ []
+
+
+Overfull \hbox (13.03001pt too wide) in paragraph at lines 18--22
+\TU/lmr/m/it/10 the
+ []
+
+
+Overfull \hbox (15.98pt too wide) in paragraph at lines 18--22
+\TU/lmr/m/it/10 En-
+ []
+
+
+Overfull \hbox (17.77002pt too wide) in paragraph at lines 18--22
+\TU/lmr/m/it/10 ergy
+ []
+
+
+Overfull \hbox (24.41pt too wide) in paragraph at lines 18--22
+\TU/lmr/m/it/10 Tran-
+ []
+
+
+Overfull \hbox (10.74pt too wide) in paragraph at lines 18--22
+\TU/lmr/m/it/10 si-
+ []
+
+
+Overfull \hbox (17.56001pt too wide) in paragraph at lines 18--22
+\TU/lmr/m/it/10 tion\nullfont ”
+ []
+
+
+Overfull \hbox (23.64581pt too wide) in paragraph at lines 18--22
+[][https://scholar.google.com/scholar?hl=esas$[][]\OML/cmm/m/it/10 dt \OT1/cmr/
+m/n/10 =
+ []
+
+
+Overfull \hbox (46.57431pt too wide) in paragraph at lines 18--22
+\OT1/cmr/m/n/10 0%2\OML/cmm/m/it/10 C\OT1/cmr/m/n/10 5\OML/cmm/m/it/10 q \OT1/c
+mr/m/n/10 =
+ []
+
+
+Overfull \hbox (24.72345pt too wide) in paragraph at lines 18--22
+\OML/cmm/m/it/10 Are \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (23.26741pt too wide) in paragraph at lines 18--22
+\OML/cmm/m/it/10 We \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (43.19864pt too wide) in paragraph at lines 18--22
+\OML/cmm/m/it/10 Moving \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (42.56606pt too wide) in paragraph at lines 18--22
+\OML/cmm/m/it/10 Toward \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (21.28017pt too wide) in paragraph at lines 18--22
+\OML/cmm/m/it/10 An \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (41.57416pt too wide) in paragraph at lines 18--22
+\OML/cmm/m/it/10 Energy \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (53.16818pt too wide) in paragraph at lines 18--22
+\OML/cmm/m/it/10 Efficient \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (26.85886pt too wide) in paragraph at lines 18--22
+\OML/cmm/m/it/10 Low \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (40.85678pt too wide) in paragraph at lines 18--22
+\OML/cmm/m/it/10 Carbon \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (70.95505pt too wide) in paragraph at lines 18--22
+\OML/cmm/m/it/10 Economy\OT1/cmr/m/n/10 %3\OML/cmm/m/it/10 F \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (21.28017pt too wide) in paragraph at lines 18--22
+\OML/cmm/m/it/10 An \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (33.32764pt too wide) in paragraph at lines 18--22
+\OML/cmm/m/it/10 Input \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (39.38599pt too wide) in paragraph at lines 18--22
+\OML/cmm/m/it/10 Output \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (39.11252pt too wide) in paragraph at lines 18--22
+\OML/cmm/m/it/10 LMDI \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (74.86287pt too wide) in paragraph at lines 18--22
+\OML/cmm/m/it/10 Decomposition \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (18.59729pt too wide) in paragraph at lines 18--22
+\OML/cmm/m/it/10 of \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (28.54585pt too wide) in paragraph at lines 18--22
+\OML/cmm/m/it/10 CO\OT1/cmr/m/n/10 2 +
+ []
+
+
+Overfull \hbox (56.31859pt too wide) in paragraph at lines 18--22
+\OML/cmm/m/it/10 Emissions \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (23.38666pt too wide) in paragraph at lines 18--22
+\OML/cmm/m/it/10 for \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (34.25073pt too wide) in paragraph at lines 18--22
+\OML/cmm/m/it/10 Spain \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (24.2709pt too wide) in paragraph at lines 18--22
+\OML/cmm/m/it/10 and \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (21.80676pt too wide) in paragraph at lines 18--22
+\OML/cmm/m/it/10 the \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (58.1995pt too wide) in paragraph at lines 18--22
+\OML/cmm/m/it/10 EU\OT1/cmr/m/n/10 28\OML/cmm/m/it/10 btnG \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (1884.05792pt too wide) in paragraph at lines 18--22
+[]\OT1/cmr/m/n/10 ][[][] \OML/cmm/m/it/10 n:\OT1/cmr/m/n/10 2104(2021)][[][]][[
+][]][] 
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{footnotesize}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 \end{itemize}\end{footnotesize}
+                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+\end  ...end#1\endcsname \@checkend {#1}\endgroup 
+                                                  \UseHook {env/#1/after}\if...
+l.23 \end{itemize}\end{footnotesize}
+                                  
+Things are pretty mixed up, but I think the worst is over.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 25--25
+[] 
+ []
+
+! Undefined control sequence.
+l.26 	\item “\link
+                  {https://doi.org/10.1007/s13209-020-00226-0}{Optimal Progr...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.27 ...he Spanish Economic Association}, vol. \link
+                                                  {https://link.springer.com...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.27 ...hspace{0.5 mm} (2020), \hspace{0.5 mm} \link
+                                                  {https://doi.org/10.1007/s...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.27 ...10.1007/s13209-020-00226-0}{\includegraphics
+                                                  [width=0.10in,height=0.10i...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.28 \indent [\link
+                 {https://scholar.google.com/scholar?cluster=105424534128057...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.28 ...le.com/scholar?cluster=10542453412805744856&
+                                                  hl=es&as_sdt=0,5}{\include...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.28 .../scholar?cluster=10542453412805744856&hl=es&
+                                                  as_sdt=0,5}{\includegraphi...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing $ inserted.
+<inserted text> 
+$
+l.28 ...holar?cluster=10542453412805744856&hl=es&as_
+                                                  sdt=0,5}{\includegraphics[...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.28 ...uster=10542453412805744856&hl=es&as_sdt=0,5}
+                                                  {\includegraphics[width=0....
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Undefined control sequence.
+l.28 ...805744856&hl=es&as_sdt=0,5}{\includegraphics
+                                                  [width=0.10in,height=0.10i...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.28 ...jpg} \hspace{0.5 mm} Google Scholar}] [\link
+                                                  {https://repositorio.bde.e...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.28 .../123456789/14576?locale=en}{\includegraphics
+                                                  [width=0.10in,height=0.10i...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.28 ...aper} \hspace{0.5 mm} n. 2101 (2021)] [\link
+                                                  {https://serranopuente.eu/...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.28 ...Optimal_Progressivity_Spain.pdf}{\faFilePdfO
+                                                   \hspace{1 mm} Manuscript}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.28 ...faFilePdfO \hspace{1 mm} Manuscript}] [\link
+                                                  {https://twitter.com/dario...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.28 ...nopue/status/1333912851149361152}{\faTwitter
+                                                   \hspace{1 mm} Summary-Thr...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.29 \indent \faTrophy
+                     \emph{ Distinction: } [\link{https://www.bde.es/f/webpi...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.29 \indent \faTrophy \emph{ Distinction: } [\link
+                                                 {https://www.bde.es/f/webpi...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+$
+l.34 		
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+}
+l.34 		
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (15.98pt too wide) in paragraph at lines 26--34
+\TU/lmr/m/it/10 SE-
+ []
+
+
+Overfull \hbox (22.01999pt too wide) in paragraph at lines 26--34
+\TU/lmr/m/it/10 RIEs
+ []
+
+
+Overfull \hbox (3.58pt too wide) in paragraph at lines 26--34
+\TU/lmr/m/it/10 -
+ []
+
+
+Overfull \hbox (33.23999pt too wide) in paragraph at lines 26--34
+\TU/lmr/m/it/10 Jorunal
+ []
+
+
+Overfull \hbox (8.18001pt too wide) in paragraph at lines 26--34
+\TU/lmr/m/it/10 of
+ []
+
+
+Overfull \hbox (13.03001pt too wide) in paragraph at lines 26--34
+\TU/lmr/m/it/10 the
+ []
+
+
+Overfull \hbox (24.53pt too wide) in paragraph at lines 26--34
+\TU/lmr/m/it/10 Span-
+ []
+
+
+Overfull \hbox (12.27pt too wide) in paragraph at lines 26--34
+\TU/lmr/m/it/10 ish
+ []
+
+
+Overfull \hbox (19.56001pt too wide) in paragraph at lines 26--34
+\TU/lmr/m/it/10 Eco-
+ []
+
+
+Overfull \hbox (26.58pt too wide) in paragraph at lines 26--34
+\TU/lmr/m/it/10 nomic
+ []
+
+
+Overfull \hbox (14.59pt too wide) in paragraph at lines 26--34
+\TU/lmr/m/it/10 As-
+ []
+
+
+Overfull \hbox (12.78pt too wide) in paragraph at lines 26--34
+\TU/lmr/m/it/10 so-
+ []
+
+
+Overfull \hbox (11.25002pt too wide) in paragraph at lines 26--34
+\TU/lmr/m/it/10 ci-
+ []
+
+
+Overfull \hbox (8.69pt too wide) in paragraph at lines 26--34
+\TU/lmr/m/it/10 a-
+ []
+
+
+Overfull \hbox (17.12001pt too wide) in paragraph at lines 26--34
+\TU/lmr/m/it/10 tion\nullfont ,
+ []
+
+
+Overfull \hbox (23.64581pt too wide) in paragraph at lines 26--34
+[][https://scholar.google.com/scholar?cluster=10542453412805744856hl=esas$[][]\
+OML/cmm/m/it/10 dt \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (1915.48569pt too wide) in paragraph at lines 26--34
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 5[]][[][] \OML/cmm/m/it/10 
+n:\OT1/cmr/m/n/10 2101(2021)][[][]][[][]][] 
+ []
+
+
+Overfull \hbox (594.99423pt too wide) in paragraph at lines 26--34
+[][]\OT1/cmr/m/n/10 [[][]][] 
+ []
+
+
+Overfull \hbox (54.68001pt too wide) in paragraph at lines 37--38
+[]\TU/lmr/bx/n/10 Policy-
+ []
+
+
+Overfull \hbox (44.04001pt too wide) in paragraph at lines 37--38
+\TU/lmr/bx/n/10 Oriented
+ []
+
+
+Overfull \hbox (24.47pt too wide) in paragraph at lines 37--38
+\TU/lmr/bx/n/10 Pub-
+ []
+
+
+Overfull \hbox (28.97pt too wide) in paragraph at lines 37--38
+\TU/lmr/bx/n/10 lished
+ []
+
+
+Overfull \hbox (27.49pt too wide) in paragraph at lines 37--38
+\TU/lmr/bx/n/10 Work 
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 39--39
+[] 
+ []
+
+! Undefined control sequence.
+l.40 	\item “\link
+                  {https://www.airef.es/es/centro-documental/opiniones/opini...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.40 ... Mínimo Vital}” (collaboration with \link
+                                                  {https://www.airef.es/en/}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.41 	\indent [\link
+                  {https://www.youtube.com/watch?v=lQoh-uvu7L8}{\includegrap...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.41 ...be.com/watch?v=lQoh-uvu7L8}{\includegraphics
+                                                  [width=0.10in,height=0.10i...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.41 ....png} \hspace{0.5 mm} Summary Video}] [\link
+                                                  {https://serranopuente.eu/...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.41 ...sets/docs/OPINION-AIREF-IMV.pdf}{\faFilePdfO
+                                                   \hspace{1 mm} Published M...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.41 ... \hspace{1 mm} Published Manuscript}] [\link
+                                                  {https://serranopuente.eu/...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.41 ...NTACION-Primera-Opinion-IMV.pdf}{\faFilePdfO
+                                                   \hspace{1 mm} Presentatio...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.41 ...FilePdfO \hspace{1 mm} Presentation}] [\link
+                                                  {https://twitter.com/AIReF...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+$
+l.41 ...entation}] [\link{https://twitter.com/AIReF_
+                                                  es/status/1549350775859646...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.41 ...ter.com/AIReF_es/status/1549350775859646465}
+                                                  {\faTwitter \hspace{1 mm} ...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Undefined control sequence.
+l.41 ...eF_es/status/1549350775859646465}{\faTwitter
+                                                   \hspace{1 mm} Summary-Thr...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Command \end{itemize} invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.48 \end{itemize}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Missing $ inserted.
+<inserted text> 
+$
+l.48 \end{itemize}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (13.06pt too wide) in paragraph at lines 40--48
+\TU/lmr/m/it/10 In-
+ []
+
+
+Overfull \hbox (25.18001pt too wide) in paragraph at lines 40--48
+\TU/lmr/m/it/10 forme
+ []
+
+
+Overfull \hbox (9.71pt too wide) in paragraph at lines 40--48
+\TU/lmr/m/it/10 de
+ []
+
+
+Overfull \hbox (32.71pt too wide) in paragraph at lines 40--48
+\TU/lmr/m/it/10 opinión\nullfont ,
+ []
+
+
+Overfull \hbox (237.69545pt too wide) in paragraph at lines 40--48
+[https://twitter.com/AIReF$[][]\OML/cmm/m/it/10 s=status=\OT1/cmr/m/n/10 1549350
+775859646465[]][] 
+ []
+
+! Missing } inserted.
+<inserted text> 
+}
+l.48 \end{itemize}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 50--50
+[] 
+ []
+
+! Undefined control sequence.
+l.51 	\item “\link
+                  {https://www.bde.es/f/webbde/SES/Secciones/Publicaciones/I...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+$
+l.51 ...vistas/BoletinEconomico/21/T2/Files/be2102e_
+                                                  it_Box6.pdf}{Recent Change...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.51 ...inEconomico/21/T2/Files/be2102e_it_Box6.pdf}
+                                                  {Recent Changes in CO2 Emi...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Undefined control sequence.
+l.51 ...es in CO2 Emissions in Spain}” (with \link
+                                                  {https://www.bde.es/invest...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing { inserted.
+<to be read again> 
+_
+l.51 ...en/menu/people/research_staff_a/Matea_Rosa__
+                                                  Mar_ca18f12a5953b41.html}{...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+If you're confused by all this, try typing `I}' now.
+
+! Undefined control sequence.
+l.51 ...tml}{Llanos Matea} \hspace{0.5 mm} and \link
+                                                  {https://www.bde.es/invest...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing { inserted.
+<to be read again> 
+_
+l.51 .../people/research_staff_a/Lacuesta_Gabarain__
+                                                  Aitor.html}{Aitor Lacuesta...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+If you're confused by all this, try typing `I}' now.
+
+! Undefined control sequence.
+l.51 ... Economic Bulletin}, n. 2/2021, Box n. \link
+                                                  {https://www.bde.es/f/webb...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.52 	\indent [\link
+                  {https://scholar.google.com/scholar?oi=bibs&hl=es&cluster=...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.52 ...{https://scholar.google.com/scholar?oi=bibs&
+                                                  hl=es&cluster=156688616504...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.52 ...://scholar.google.com/scholar?oi=bibs&hl=es&
+                                                  cluster=156688616504851082...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.52 ...cluster=156688616504851082}{\includegraphics
+                                                  [width=0.10in,height=0.10i...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.52 ...jpg} \hspace{0.5 mm} Google Scholar}] [\link
+                                                  {https://www.bde.es/f/webb...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.52 ...T2/Fich/be2102-it-Rec6.pdf}{\includegraphics
+                                                  [width=0.10in,height=0.10i...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.52 ...pg} \hspace{0.5 mm} Spanish version}] [\link
+                                                  {https://twitter.com/dario...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.52 ...nopue/status/1400764076301639688}{\faTwitter
+                                                   \hspace{1 mm} Summary-Thr...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Command \end{itemize} invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52 ...hspace{1 mm} Summary-Thread}]  \end{itemize}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Missing $ inserted.
+<inserted text> 
+$
+l.52 ...hspace{1 mm} Summary-Thread}]  \end{itemize}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+}
+l.52 ...hspace{1 mm} Summary-Thread}]  \end{itemize}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+}
+l.52 ...hspace{1 mm} Summary-Thread}]  \end{itemize}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no ” (U+201D) in font cmr10!
+Missing character: There is no ” (U+201D) in font cmr10!
+
+Overfull \hbox (4212.54745pt too wide) in paragraph at lines 51--52
+“https://www.bde.es/f/webbde/SES/Secciones/Publicaciones/InformesBoletinesRevi
+stas/BoletinEconomico/21/T2/Files/be2102e$[][]\OML/cmm/m/it/10 t[]ox\OT1/cmr/m/
+n/10 6\OML/cmm/m/it/10 :pdf[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 with[]$ 
+ []
+
+! Missing } inserted.
+<inserted text> 
+}
+l.52 ...hspace{1 mm} Summary-Thread}]  \end{itemize}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 54--54
+[] 
+ []
+
+! Undefined control sequence.
+l.55 	\item “\link
+                  {https://repositorio.bde.es/handle/123456789/14121}{Effect...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.55 ...ces and Business Competition}” (with \link
+                                                  {https://www.bde.es/invest...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+$
+l.55 ...bde.es/investigador/en/menu/people/research_
+                                                  staff_a/Lacuesta_Gabarain_...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing { inserted.
+<to be read again> 
+_
+l.55 .../people/research_staff_a/Lacuesta_Gabarain__
+                                                  Aitor.html}{Aitor Lacuesta...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+If you're confused by all this, try typing `I}' now.
+
+! Undefined control sequence.
+l.55 ...l}{Aitor Lacuesta} \hspace{0.5 mm} and \link
+                                                  {https://pauroldan.weebly....
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.55 ...tin}, n. 4/2020, Analytical Article n. \link
+                                                  {https://repositorio.bde.e...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.56 	\indent [\link
+                  {https://scholar.google.com/scholar?oi=bibs&hl=es&cluster=...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.56 ...{https://scholar.google.com/scholar?oi=bibs&
+                                                  hl=es&cluster=575536888954...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.56 ...://scholar.google.com/scholar?oi=bibs&hl=es&
+                                                  cluster=575536888954054001...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.56 ...luster=5755368889540540019}{\includegraphics
+                                                  [width=0.10in,height=0.10i...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.56 ...jpg} \hspace{0.5 mm} Google Scholar}] [\link
+                                                  {https://repositorio.bde.e...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.56 ....es/handle/123456789/14122}{\includegraphics
+                                                  [width=0.10in,height=0.10i...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.56 ...pg} \hspace{0.5 mm} Spanish version}] [\link
+                                                  {https://twitter.com/Banco...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.56 ...spana/status/1329365415613657088}{\faTwitter
+                                                   \hspace{1 mm} Summary-Thr...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+$
+l.62 			
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+}
+l.62 			
+      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no á (U+00E1) in font cmmi10!
+Missing character: There is no á (U+00E1) in font cmmi10!
+
+Overfull \hbox (998.56444pt too wide) in paragraph at lines 55--62
+https://www.bde.es/investigador/en/menu/people/research$[][]\OML/cmm/m/it/10 taf
+f[]=Lacuesta[]abarain[][] and[][]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 :[]; n:\OT1/
+cmr/m/n/10 4\OML/cmm/m/it/10 =\OT1/cmr/m/n/10 2020\OML/cmm/m/it/10 ; AnalyticalA
+rticlen:[][] \OT1/cmr/m/n/10 (2020)\OML/cmm/m/it/10 :[] 
+ []
+
+
+Overfull \hbox (1584.57841pt too wide) in paragraph at lines 55--62
+[]\OT1/cmr/m/n/10 [[][]][[][]][[][]][] 
+ []
+
+)
+! Emergency stop.
+<*> section_publications.tex
+                         
+*** (job aborted, no legal \end found)
+
+
+
+Here is how much of LuaTeX's memory you used:
+ 29 strings out of 475630
+ 100000,552014 words of node,token memory allocated 40665 words of node memory still in use:
+   256 hlist, 74 disc, 13 local_par, 1 dir, 9 math, 562 glue, 411 kern, 108 pena
+lty, 4306 glyph, 170 attribute, 40 glue_spec, 170 attribute_list nodes
+   avail lists: 2:2,3:815,4:28,5:12,7:11,8:814,10:27
+ 23035 multiletter control sequences out of 65536+600000
+ 26 fonts using 1476743 bytes
+ 22i,6n,23p,800b,136s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!

@@ -13,7 +13,9 @@
 
 \name{Darío}{Serrano-Puente}
 
-\tagline{Economist @ \link{https://www.bde.es/investigador/en/}{Banco de España (BdE)}\hspace{0.7 mm}|\hspace{0.7 mm}PhD (Cand.) in Economics @ \link{https://www.ub.edu/school-economics/phd_students/serrano-puente-dario/}{UB} \hspace{0.7 mm} \& \link{https://ieb.ub.edu/en/researcher/serrano-puente-dario/}{IEB}
+\tagline{Economist @ \link{https://www.bde.es/investigador/en/}{Banco de España (BdE)}
+\hspace{0.7 mm} \& \link{https://ieb.ub.edu/en/researcher/serrano-puente-dario/}{IEB} \\ \hspace{0.7 mm} \\ PhD Candidate in Economics @ \link{https://www.ub.edu/school-economics/phd_students/serrano-puente-dario/}{Universitat de Barcelona}
+\hspace{0.7 mm} \& \link{https://ieb.ub.edu/en/researcher/serrano-puente-dario/}{IEB}
 }
 
 \photo{3cm}{avatar}
@@ -25,8 +27,9 @@
 	\link{https://scholar.google.es/citations?user=dKncLyQAAAAJ&hl=es}{\includegraphics[width=0.10in,height=0.10in]{icon/scholar.jpg}}\hspace{1 mm} \link{https://scholar.google.es/citations?user=dKncLyQAAAAJ&hl=es}{Google Scholar}\hspace{2 mm} 
 	\link{https://orcid.org/0000-0002-5943-3332}{\includegraphics[width=0.10in,height=0.10in]{icon/orcid.jpg}}\hspace{1 mm} \link{https://orcid.org/0000-0002-5943-3332}{ORCiD}\hspace{2 mm} 
 	\link{https://ideas.repec.org/f/pse707.html}{\includegraphics[width=0.10in,height=0.10in]{icon/ideas.jpg}}\hspace{1 mm} \link{https://ideas.repec.org/f/pse707.html}{IDEAS}\hspace{2 mm}
-	\link{https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4360579}{\includegraphics[width=0.10in,height=0.10in]{icon/ssrn.jpg}}\hspace{1 mm} \link{https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4360579}{SSRN}\hspace{2 mm}
-	\link{https://www.webofscience.com/wos/author/record/2296848}{\includegraphics[width=0.10in,height=0.10in]{icon/webofscience.jpg}}\hspace{1 mm} \link{https://www.webofscience.com/wos/author/record/2296848}{Web of Science}\hspace{2 mm} \\
+	\link{https://www.webofscience.com/wos/author/record/2296848}{\includegraphics[width=0.10in,height=0.10in]{icon/webofscience.jpg}}\hspace{1 mm} \link{https://www.webofscience.com/wos/author/record/2296848}{Web of Science}\hspace{2 mm}
+	\link{https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4360579}{\includegraphics[width=0.10in,height=0.10in]{icon/ssrn.jpg}}\hspace{1 mm} \link{https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4360579}{SSRN}\hspace{2 mm} \\
+		
 	%\smartphone{(+34) 626 91 22 97}
 	\email{darioserrapuente[at]gmail.com} \email{dario.serrano[at]bde.es} \\
 	\address{John M. Keynes No. 1-11, 08034 Barcelona, Spain} \hspace{2 mm} \infos{Birth: Nov 1994, Fuentepelayo (Segovia), Spain}
@@ -59,6 +62,6 @@
 	
 
 	\noindent \\		
-	(Last update: June 02\textsuperscript{nd}, 2025. Access latest version \link{https://serranopuente.eu/assets/docs/serrano_puente_dario_academic_cv.pdf}{here}.)\\
+	(Last update: December 27\textsuperscript{th}, 2024. Access latest version \link{https://serranopuente.eu/assets/docs/serrano_puente_dario_academic_cv.pdf}{here}.)\\
 	(If you like this CV template, feel free to get \link{https://github.com/serranopuente/awesome_academic_cv}{here} \hspace{0.35 mm} my LuaLaTeX source-codes to build it up.)
 \end{document}

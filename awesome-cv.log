@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2024.12.27)  2 JUN 2025 21:34
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2024.12.27)  18 JUN 2025 09:18
  restricted system commands enabled.
 **awesome-cv.tex
 (./awesome-cv.tex
@@ -1227,22 +1227,22 @@ Package hyperref Info: Link coloring OFF on input line 35.
 \@outlinefile=\write4
 
 \openout4 = awesome-cv.out
-<icon/bde.jpg, id=62, 513.92pt x 513.92pt>
+<icon/bde.jpg, id=54, 513.92pt x 513.92pt>
 File: icon/bde.jpg Graphic file (type jpg)
 <use icon/bde.jpg>
 Package luatex.def Info: icon/bde.jpg  used on input line 37.
 (luatex.def)             Requested size: 7.22227pt x 7.22227pt.
-<icon/scholar.jpg, id=65, 377.91188pt x 487.8225pt>
+<icon/scholar.jpg, id=57, 377.91188pt x 487.8225pt>
 File: icon/scholar.jpg Graphic file (type jpg)
 <use icon/scholar.jpg>
 Package luatex.def Info: icon/scholar.jpg  used on input line 37.
 (luatex.def)             Requested size: 7.22537pt x 7.22025pt.
-<icon/orcid.jpg, id=68, 298.11375pt x 298.11375pt>
+<icon/orcid.jpg, id=60, 298.11375pt x 298.11375pt>
 File: icon/orcid.jpg Graphic file (type jpg)
 <use icon/orcid.jpg>
 Package luatex.def Info: icon/orcid.jpg  used on input line 37.
 (luatex.def)             Requested size: 7.22356pt x 7.22356pt.
-<icon/ideas.jpg, id=71, 90.3375pt x 120.45pt>
+<icon/ideas.jpg, id=63, 90.3375pt x 120.45pt>
 File: icon/ideas.jpg Graphic file (type jpg)
 <use icon/ideas.jpg>
 Package luatex.def Info: icon/ideas.jpg  used on input line 37.
@@ -1250,12 +1250,12 @@ Package luatex.def Info: icon/ideas.jpg  used on input line 37.
 
 warning  (file icon/ssrn.jpg) (readjpg): Bad Exif resolution 0dpi x 0dpi (zero o
 r negative value of a signed integer)
-<icon/ssrn.jpg, id=74, 135.50626pt x 135.50626pt>
+<icon/ssrn.jpg, id=66, 135.50626pt x 135.50626pt>
 File: icon/ssrn.jpg Graphic file (type jpg)
 <use icon/ssrn.jpg>
 Package luatex.def Info: icon/ssrn.jpg  used on input line 37.
 (luatex.def)             Requested size: 7.22646pt x 7.22646pt.
-<icon/webofscience.jpg, id=77, 150.5625pt x 150.5625pt>
+<icon/webofscience.jpg, id=69, 150.5625pt x 150.5625pt>
 File: icon/webofscience.jpg Graphic file (type jpg)
 <use icon/webofscience.jpg>
 Package luatex.def Info: icon/webofscience.jpg  used on input line 37.
@@ -1264,36 +1264,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 37.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 37.
-<avatar.png, id=81, 602.25pt x 602.25pt>
+<avatar.png, id=73, 602.25pt x 602.25pt>
 File: avatar.png Graphic file (type png)
 <use avatar.png>
 Package luatex.def Info: avatar.png  used on input line 37.
 (luatex.def)             Requested size: 71.13188pt x 71.12737pt.
-(./section_interests.tex) (./section_affiliations.tex
-File: icon/bde.jpg Graphic file (type jpg)
-<use icon/bde.jpg>
-Package luatex.def Info: icon/bde.jpg  used on input line 25.
-(luatex.def)             Requested size: 7.22227pt x 7.22227pt.
-<icon/ubse.jpg, id=87, 197.73875pt x 197.73875pt>
-File: icon/ubse.jpg Graphic file (type jpg)
-<use icon/ubse.jpg>
-Package luatex.def Info: icon/ubse.jpg  used on input line 26.
-(luatex.def)             Requested size: 7.2263pt x 7.2263pt.
-)
-(./section_references.tex
-File: icon/ubse.jpg Graphic file (type jpg)
-<use icon/ubse.jpg>
-Package luatex.def Info: icon/ubse.jpg  used on input line 16.
-(luatex.def)             Requested size: 6.50215pt x 6.50215pt.
-
-warning  (file icon/cunef.jpg) (readjpg): Bad Exif resolution 0dpi x 0dpi (zero 
-or negative value of a signed integer)
-<icon/cunef.jpg, id=90, 150.5625pt x 150.5625pt>
-File: icon/cunef.jpg Graphic file (type jpg)
-<use icon/cunef.jpg>
-Package luatex.def Info: icon/cunef.jpg  used on input line 16.
-(luatex.def)             Requested size: 6.50392pt x 6.50392pt.
-) (./section_education.tex
+(./section_interests.tex) (./section_education.tex
+<icon/ubse.jpg, id=78, 197.73875pt x 197.73875pt>
 File: icon/ubse.jpg Graphic file (type jpg)
 <use icon/ubse.jpg>
 Package luatex.def Info: icon/ubse.jpg  used on input line 27.
@@ -1302,7 +1279,7 @@ Package luatex.def Info: icon/ubse.jpg  used on input line 27.
 Overfull \vbox (8.50525pt too high) detected at line 27
  []
 
-<icon/unima.jpg, id=102, 150.5625pt x 150.5625pt>
+<icon/unima.jpg, id=85, 150.5625pt x 150.5625pt>
 File: icon/unima.jpg Graphic file (type jpg)
 <use icon/unima.jpg>
 Package luatex.def Info: icon/unima.jpg  used on input line 36.
@@ -1311,7 +1288,7 @@ Package luatex.def Info: icon/unima.jpg  used on input line 36.
 Overfull \vbox (8.50586pt too high) detected at line 36
  []
 
-<icon/uam.jpg, id=106, 150.5625pt x 150.5625pt>
+<icon/uam.jpg, id=88, 150.5625pt x 150.5625pt>
 File: icon/uam.jpg Graphic file (type jpg)
 <use icon/uam.jpg>
 Package luatex.def Info: icon/uam.jpg  used on input line 44.
@@ -1320,111 +1297,10 @@ Package luatex.def Info: icon/uam.jpg  used on input line 44.
 Overfull \vbox (8.50586pt too high) detected at line 44
  []
 
-) (./section_publications.tex
-<icon/doi.jpg, id=115, 2055.68pt x 2055.68pt>
-File: icon/doi.jpg Graphic file (type jpg)
-<use icon/doi.jpg>
-Package luatex.def Info: icon/doi.jpg  used on input line 19.
-(luatex.def)             Requested size: 7.21443pt x 7.21443pt.
-File: icon/scholar.jpg Graphic file (type jpg)
-<use icon/scholar.jpg>
-Package luatex.def Info: icon/scholar.jpg  used on input line 20.
-(luatex.def)             Requested size: 7.22537pt x 7.22025pt.
-<icon/wp.jpg, id=118, 169.38281pt x 169.38281pt>
-File: icon/wp.jpg Graphic file (type jpg)
-<use icon/wp.jpg>
-Package luatex.def Info: icon/wp.jpg  used on input line 20.
-(luatex.def)             Requested size: 7.22646pt x 7.22646pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--22
-
- []
-
-
-! LaTeX Error: \begin{document} ended by \end{footnotesize}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.23 \end{itemize}\end{footnotesize}
-                                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Extra \endgroup.
-\end  ...end#1\endcsname \@checkend {#1}\endgroup 
-                                                  \UseHook {env/#1/after}\if...
-l.23 \end{itemize}\end{footnotesize}
-                                  
-Things are pretty mixed up, but I think the worst is over.
-
-File: icon/doi.jpg Graphic file (type jpg)
-<use icon/doi.jpg>
-Package luatex.def Info: icon/doi.jpg  used on input line 27.
-(luatex.def)             Requested size: 7.21443pt x 7.21443pt.
-File: icon/scholar.jpg Graphic file (type jpg)
-<use icon/scholar.jpg>
-Package luatex.def Info: icon/scholar.jpg  used on input line 28.
-(luatex.def)             Requested size: 7.22537pt x 7.22025pt.
-File: icon/wp.jpg Graphic file (type jpg)
-<use icon/wp.jpg>
-Package luatex.def Info: icon/wp.jpg  used on input line 28.
-(luatex.def)             Requested size: 7.22646pt x 7.22646pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--34
-
- []
-
-
-
-[1
-
-{C:/Users/dario/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}<./icon/bde.jpg
-><./icon/scholar.jpg><./icon/orcid.jpg><./icon/ideas.jpg><./icon/ssrn.jpg
-warning  (readjpg): Bad Exif resolution 0dpi x 0dpi (zero or negative value of a
- signed integer)
-><./icon/webofscience.jpg><./avatar.png><./icon/ubse.jpg><./icon/cunef.jpg
-warning  (readjpg): Bad Exif resolution 0dpi x 0dpi (zero or negative value of a
- signed integer)
-><./icon/unima.jpg><./icon/uam.jpg><./icon/doi.jpg><./icon/wp.jpg>]
-<icon/youtube.png, id=152, 513.92pt x 513.92pt>
-File: icon/youtube.png Graphic file (type png)
-<use icon/youtube.png>
-Package luatex.def Info: icon/youtube.png  used on input line 41.
-(luatex.def)             Requested size: 7.22227pt x 7.22227pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--48
-
- []
-
-File: icon/scholar.jpg Graphic file (type jpg)
-<use icon/scholar.jpg>
-Package luatex.def Info: icon/scholar.jpg  used on input line 52.
-(luatex.def)             Requested size: 7.22537pt x 7.22025pt.
-<icon/esp.jpg, id=162, 108.405pt x 107.65219pt>
-File: icon/esp.jpg Graphic file (type jpg)
-<use icon/esp.jpg>
-Package luatex.def Info: icon/esp.jpg  used on input line 52.
-(luatex.def)             Requested size: 7.22687pt x 7.22595pt.
-File: icon/scholar.jpg Graphic file (type jpg)
-<use icon/scholar.jpg>
-Package luatex.def Info: icon/scholar.jpg  used on input line 56.
-(luatex.def)             Requested size: 7.22537pt x 7.22025pt.
-File: icon/esp.jpg Graphic file (type jpg)
-<use icon/esp.jpg>
-Package luatex.def Info: icon/esp.jpg  used on input line 56.
-(luatex.def)             Requested size: 7.22687pt x 7.22595pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 55--62
-
- []
-
 ) (./section_academic_employment.tex
 warning  (file icon/bdec.jpg) (readjpg): Bad Exif resolution 0dpi x 0dpi (zero o
 r negative value of a signed integer)
-<icon/bdec.jpg, id=172, 150.5625pt x 150.5625pt>
+<icon/bdec.jpg, id=93, 150.5625pt x 150.5625pt>
 File: icon/bdec.jpg Graphic file (type jpg)
 <use icon/bdec.jpg>
 Package luatex.def Info: icon/bdec.jpg  used on input line 18.
@@ -1441,16 +1317,7 @@ Package luatex.def Info: icon/ubse.jpg  used on input line 25.
 Overfull \vbox (8.50525pt too high) detected at line 25
  []
 
-<icon/ifs.png, id=176, 209.78375pt x 209.78375pt>
-File: icon/ifs.png Graphic file (type png)
-<use icon/ifs.png>
-Package luatex.def Info: icon/ifs.png  used on input line 32.
-(luatex.def)             Requested size: 28.90536pt x 28.90536pt.
-
-Overfull \vbox (8.5054pt too high) detected at line 32
- []
-
-<icon/airef.jpg, id=182, 101.78873pt x 101.78873pt>
+<icon/airef.jpg, id=97, 101.78873pt x 101.78873pt>
 File: icon/airef.jpg Graphic file (type jpg)
 <use icon/airef.jpg>
 Package luatex.def Info: icon/airef.jpg  used on input line 39.
@@ -1459,6 +1326,10 @@ Package luatex.def Info: icon/airef.jpg  used on input line 39.
 Overfull \vbox (8.5076pt too high) detected at line 39
  []
 
+
+warning  (file icon/cunef.jpg) (readjpg): Bad Exif resolution 0dpi x 0dpi (zero 
+or negative value of a signed integer)
+<icon/cunef.jpg, id=101, 150.5625pt x 150.5625pt>
 File: icon/cunef.jpg Graphic file (type jpg)
 <use icon/cunef.jpg>
 Package luatex.def Info: icon/cunef.jpg  used on input line 46.
@@ -1475,7 +1346,7 @@ Package luatex.def Info: icon/bdec.jpg  used on input line 53.
 Overfull \vbox (8.50586pt too high) detected at line 53
  []
 
-<icon/nera.jpg, id=189, 150.5625pt x 150.5625pt>
+<icon/nera.jpg, id=104, 150.5625pt x 150.5625pt>
 File: icon/nera.jpg Graphic file (type jpg)
 <use icon/nera.jpg>
 Package luatex.def Info: icon/nera.jpg  used on input line 60.
@@ -1489,12 +1360,46 @@ Overfull \hbox (4.48311pt too wide) in alignment at lines 14--64
  [][] 
  []
 
-[2<./icon/youtube.png><./icon/esp.jpg><./icon/bdec.jpg
+[1
+
+{C:/Users/dario/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}<./icon/bde.jpg
+><./icon/scholar.jpg><./icon/orcid.jpg><./icon/ideas.jpg><./icon/ssrn.jpg
 warning  (readjpg): Bad Exif resolution 0dpi x 0dpi (zero or negative value of a
  signed integer)
-><./icon/ifs.png><./icon/airef.jpg>]) (./section_seminars.tex)
-(./section_teaching.tex
-<icon/ub.png, id=202, 220.825pt x 220.825pt>
+><./icon/webofscience.jpg><./avatar.png><./icon/ubse.jpg><./icon/unima.jpg><./ic
+on/uam.jpg><./icon/bdec.jpg
+warning  (readjpg): Bad Exif resolution 0dpi x 0dpi (zero or negative value of a
+ signed integer)
+><./icon/airef.jpg><./icon/cunef.jpg
+warning  (readjpg): Bad Exif resolution 0dpi x 0dpi (zero or negative value of a
+ signed integer)
+>]) (./section_publications.tex
+<icon/doi.jpg, id=125, 2055.68pt x 2055.68pt>
+File: icon/doi.jpg Graphic file (type jpg)
+<use icon/doi.jpg>
+Package luatex.def Info: icon/doi.jpg  used on input line 19.
+(luatex.def)             Requested size: 7.21443pt x 7.21443pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--22
+
+ []
+
+File: icon/doi.jpg Graphic file (type jpg)
+<use icon/doi.jpg>
+Package luatex.def Info: icon/doi.jpg  used on input line 24.
+(luatex.def)             Requested size: 7.21443pt x 7.21443pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
+
+ []
+
+) (./section_seminars.tex) (./section_teaching.tex
+<icon/ub.png, id=141, 220.825pt x 220.825pt>
 File: icon/ub.png Graphic file (type png)
 <use icon/ub.png>
 Package luatex.def Info: icon/ub.png  used on input line 17.
@@ -1512,7 +1417,8 @@ File: icon/doi.jpg Graphic file (type jpg)
 <use icon/doi.jpg>
 Package luatex.def Info: icon/doi.jpg  used on input line 14.
 (luatex.def)             Requested size: 5.0501pt x 5.0501pt.
-) (./section_awards.tex
+)
+(./section_awards.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 14.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -1531,37 +1437,39 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 ) (./section_computer.tex
-<icon/stata.jpg, id=234, 149.05687pt x 149.05687pt>
+
+[2<./icon/nera.jpg><./icon/doi.jpg><./icon/ub.png>]
+<icon/stata.jpg, id=183, 149.05687pt x 149.05687pt>
 File: icon/stata.jpg Graphic file (type jpg)
 <use icon/stata.jpg>
 Package luatex.def Info: icon/stata.jpg  used on input line 15.
 (luatex.def)             Requested size: 10.83989pt x 10.83989pt.
-<icon/matlab.jpg, id=235, 213.79875pt x 213.79875pt>
+<icon/matlab.jpg, id=184, 213.79875pt x 213.79875pt>
 File: icon/matlab.jpg Graphic file (type jpg)
 <use icon/matlab.jpg>
 Package luatex.def Info: icon/matlab.jpg  used on input line 15.
 (luatex.def)             Requested size: 10.83736pt x 10.83736pt.
-<icon/r.jpg, id=236, 193.47281pt x 191.21437pt>
+<icon/r.jpg, id=185, 193.47281pt x 191.21437pt>
 File: icon/r.jpg Graphic file (type jpg)
 <use icon/r.jpg>
 Package luatex.def Info: icon/r.jpg  used on input line 16.
 (luatex.def)             Requested size: 10.83734pt x 10.83922pt.
-<icon/python.jpg, id=237, 59.9841pt x 58.7796pt>
+<icon/python.jpg, id=186, 59.9841pt x 58.7796pt>
 File: icon/python.jpg Graphic file (type jpg)
 <use icon/python.jpg>
 Package luatex.def Info: icon/python.jpg  used on input line 16.
 (luatex.def)             Requested size: 10.83968pt x 10.83997pt.
-<icon/julia.jpg, id=238, 281.05pt x 281.05pt>
+<icon/julia.jpg, id=187, 281.05pt x 281.05pt>
 File: icon/julia.jpg Graphic file (type jpg)
 <use icon/julia.jpg>
 Package luatex.def Info: icon/julia.jpg  used on input line 17.
 (luatex.def)             Requested size: 10.83696pt x 10.83696pt.
-<icon/fortran.jpg, id=239, 1204.5pt x 1204.5pt>
+<icon/fortran.jpg, id=188, 1204.5pt x 1204.5pt>
 File: icon/fortran.jpg Graphic file (type jpg)
 <use icon/fortran.jpg>
 Package luatex.def Info: icon/fortran.jpg  used on input line 17.
 (luatex.def)             Requested size: 10.82532pt x 10.82532pt.
-<icon/euromod.jpg, id=240, 225.84375pt x 225.84375pt>
+<icon/euromod.jpg, id=189, 225.84375pt x 225.84375pt>
 File: icon/euromod.jpg Graphic file (type jpg)
 <use icon/euromod.jpg>
 Package luatex.def Info: icon/euromod.jpg  used on input line 18.
@@ -1569,12 +1477,12 @@ Package luatex.def Info: icon/euromod.jpg  used on input line 18.
 
 warning  (file icon/github.jpg) (readjpg): Exif resolution 105dpi x 105dpi diffe
 rs from the input resolution 96dpi x 96dpi
-<icon/github.jpg, id=241, 352.40228pt x 352.40228pt>
+<icon/github.jpg, id=190, 352.40228pt x 352.40228pt>
 File: icon/github.jpg Graphic file (type jpg)
 <use icon/github.jpg>
 Package luatex.def Info: icon/github.jpg  used on input line 18.
 (luatex.def)             Requested size: 10.83508pt x 10.83508pt.
-<icon/htmlcss.png, id=242, 385.44pt x 385.44pt>
+<icon/htmlcss.png, id=191, 385.44pt x 385.44pt>
 File: icon/htmlcss.png Graphic file (type png)
 <use icon/htmlcss.png>
 Package luatex.def Info: icon/htmlcss.png  used on input line 19.
@@ -1582,23 +1490,23 @@ Package luatex.def Info: icon/htmlcss.png  used on input line 19.
 
 warning  (file icon/vscode.jpg) (readjpg): Bad Exif resolution 0dpi x 0dpi (zero
  or negative value of a signed integer)
-<icon/vscode.jpg, id=243, 308.65312pt x 308.65312pt>
+<icon/vscode.jpg, id=192, 308.65312pt x 308.65312pt>
 File: icon/vscode.jpg Graphic file (type jpg)
 <use icon/vscode.jpg>
 Package luatex.def Info: icon/vscode.jpg  used on input line 19.
 (luatex.def)             Requested size: 10.83693pt x 10.83693pt.
-<icon/tex.jpg, id=244, 686.565pt x 704.6325pt>
+<icon/tex.jpg, id=193, 686.565pt x 704.6325pt>
 File: icon/tex.jpg Graphic file (type jpg)
 <use icon/tex.jpg>
 Package luatex.def Info: icon/tex.jpg  used on input line 20.
 (luatex.def)             Requested size: 10.8323pt x 10.83781pt.
-<icon/powerbi.png, id=245, 48.18pt x 48.18pt>
+<icon/powerbi.png, id=194, 48.18pt x 48.18pt>
 File: icon/powerbi.png Graphic file (type png)
 <use icon/powerbi.png>
 Package luatex.def Info: icon/powerbi.png  used on input line 20.
 (luatex.def)             Requested size: 10.84001pt x 10.84001pt.
 ) (./section_languages.tex) (./section_other_professional.tex
-<icon/huercasa.jpg, id=247, 202.7575pt x 202.7575pt>
+<icon/huercasa.jpg, id=196, 202.7575pt x 202.7575pt>
 File: icon/huercasa.jpg Graphic file (type jpg)
 <use icon/huercasa.jpg>
 Package luatex.def Info: icon/huercasa.jpg  used on input line 18.
@@ -1607,7 +1515,7 @@ Package luatex.def Info: icon/huercasa.jpg  used on input line 18.
 Overfull \vbox (12.75566pt too high) detected at line 18
  []
 
-<icon/johndeere.jpg, id=249, 93.34875pt x 93.34875pt>
+<icon/johndeere.jpg, id=198, 93.34875pt x 93.34875pt>
 File: icon/johndeere.jpg Graphic file (type jpg)
 <use icon/johndeere.jpg>
 Package luatex.def Info: icon/johndeere.jpg  used on input line 25.
@@ -1616,7 +1524,7 @@ Package luatex.def Info: icon/johndeere.jpg  used on input line 25.
 Overfull \vbox (12.75652pt too high) detected at line 25
  []
 
-<icon/ms.jpg, id=251, 225.84375pt x 225.84375pt>
+<icon/ms.jpg, id=200, 225.84375pt x 225.84375pt>
 File: icon/ms.jpg Graphic file (type jpg)
 <use icon/ms.jpg>
 Package luatex.def Info: icon/ms.jpg  used on input line 32.
@@ -1630,44 +1538,44 @@ Overfull \hbox (4.48311pt too wide) in alignment at lines 14--37
  [][] 
  []
 
-[3<./icon/nera.jpg><./icon/ub.png><./icon/stata.jpg><./icon/matlab.jpg><./icon/r
-.jpg><./icon/python.jpg><./icon/julia.jpg><./icon/fortran.jpg><./icon/euromod.jp
-g><./icon/github.jpg
+)
+
+[3<./icon/stata.jpg><./icon/matlab.jpg><./icon/r.jpg><./icon/python.jpg><./icon/
+julia.jpg><./icon/fortran.jpg><./icon/euromod.jpg><./icon/github.jpg
 warning  (readjpg): Exif resolution 105dpi x 105dpi differs from the input resol
 ution 96dpi x 96dpi
 ><./icon/htmlcss.png><./icon/vscode.jpg
 warning  (readjpg): Bad Exif resolution 0dpi x 0dpi (zero or negative value of a
  signed integer)
-><./icon/tex.jpg><./icon/powerbi.png><./icon/huercasa.jpg>])
-
-[4<./icon/johndeere.jpg><./icon/ms.jpg>] (./awesome-cv.aux)
+><./icon/tex.jpg><./icon/powerbi.png><./icon/huercasa.jpg><./icon/johndeere.jpg>
+<./icon/ms.jpg>] (./awesome-cv.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-11-02>
  ***********
 Package rerunfilecheck Info: File `awesome-cv.out' has not changed.
-(rerunfilecheck)             Checksum: 26809EA9F96ED05F5929B703FA3511C4;1699.
+(rerunfilecheck)             Checksum: 12EEA6FF07D4C3888B306458683E7CF2;1451.
 )
 
 Here is how much of LuaTeX's memory you used:
- 31015 strings out of 475630
- 156364,1373583 words of node,token memory allocated
- 1425 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 38 glue, 3 kern, 1 penalty, 2 glyph, 293 attribute,
- 61 glue_spec, 43 attribute_list, 2 write, 4 pdf_action nodes
-   avail lists: 1:3,2:9370,3:932,4:814,5:2010,6:178,7:12653,8:3,9:1839,10:20,11:
-1015
- 52960 multiletter control sequences out of 65536+600000
- 64 fonts using 9098055 bytes
+ 30914 strings out of 475630
+ 195462,1373583 words of node,token memory allocated
+ 1266 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 33 glue, 3 kern, 1 penalty, 2 glyph, 244 attribute,
+ 61 glue_spec, 36 attribute_list, 2 write, 2 pdf_action nodes
+   avail lists: 1:6,2:7670,3:950,4:642,5:2275,6:229,7:14359,8:3,9:2293,10:15,11:
+1222
+ 52914 multiletter control sequences out of 65536+600000
+ 61 fonts using 8543567 bytes
  117i,12n,119p,1198b,985s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/users/dario/appdata/local/programs/miktex/fonts/opentype/public/lm/lmmono8-r
 egular.otf><./fonts/SourceSansPro-LightIt.otf><./fonts/SourceSansPro-Regular.otf
 ><C:/Users/dario/AppData/Local/Programs/MiKTeX/fonts/opentype/public/fontawesome
 /fontawesome.otf><./fonts/SourceSansPro-Semibold.otf><./fonts/SourceSansPro-Ligh
 t.otf>
-Output written on awesome-cv.pdf (4 pages, 1441180 bytes).
+Output written on awesome-cv.pdf (3 pages, 1374803 bytes).
 
-PDF statistics: 318 PDF objects out of 1000 (max. 8388607)
- 20 named destinations out of 1000 (max. 131072)
- 120 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 260 PDF objects out of 1000 (max. 8388607)
+ 17 named destinations out of 1000 (max. 131072)
+ 104 words of extra memory for PDF output out of 10000 (max. 100000000)
 
